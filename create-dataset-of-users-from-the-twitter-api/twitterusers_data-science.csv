@@ -1,0 +1,1001 @@
+handle,name,age,num_of_tweets,has_profile,has_pic,num_following,num_of_favorites,num_of_lists,num_of_followers
+analyticbridge,Big Data Science,2248,12535,1,1,1797,73,965,18828
+DataScienceCtrl,Data Science Central,941,289,1,1,1031,0,222,5237
+ds_ldn,Data Science London,838,2523,1,1,238,0,307,4597
+BerkeleyData,datascience@berkeley,441,1583,1,1,392,29,127,2922
+kdnuggets,Gregory Piatetsky,1925,14359,1,1,361,105,1288,19169
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+kaggle,Kaggle,1682,1865,1,1,91,37,687,13009
+DataKind,DataKind,858,1584,1,1,99,346,638,8739
+IBMbigdata,IBM big data,1156,18729,1,1,1615,334,1302,35906
+simplystats,Simply Statistics,923,1645,0,1,222,95,620,13559
+datascifellows,Data for Social Good,430,515,0,1,142,6,108,2129
+BigDataGal,"Lillian Pierson, PE",572,3302,1,1,4002,720,371,8005
+dpatil,dj patil,2187,8903,1,1,907,3869,920,17825
+MadDataScience,Alessandro Gagliardi,1205,932,1,1,1182,55,87,1191
+DataMiningBlog,Sandro Saitta,2234,833,1,1,380,19,425,5474
+siah,Siah,2584,8698,1,1,1238,5965,350,4738
+andrewflowers,Andrew Flowers,1763,2574,1,1,666,1178,88,1803
+mjcavaretta,Michael Cavaretta,1833,6152,1,1,1595,578,212,3596
+DataCommunityDC,Data Community DC,667,1249,0,1,30,31,109,1444
+furrier,John Furrier,2624,30011,1,1,1677,3437,1141,16585
+seanjtaylor,Sean J. Taylor,1914,8186,1,1,1589,2030,277,4179
+peteskomoroch,Peter Skomoroch,2227,12802,1,1,1298,5244,1199,17436
+jeremyphoward,Jeremy Howard,1378,3035,1,1,799,211,225,3558
+bradleyvoytek,Bradley Voytek,1412,7766,1,1,666,1064,624,8196
+kurtosis0,Kurt Smith,2213,3822,1,1,1004,1386,81,2025
+deaneckles,Dean Eckles,2653,2666,1,1,520,409,116,1814
+gopivotal,Pivotal,470,3465,1,1,572,94,302,14945
+jsteeleeditor,Julie Steele,2243,3542,1,1,828,358,315,3603
+mrogati,Monica Rogati,2018,973,0,1,319,635,522,8778
+HarlanH,Harlan Harris,1942,5801,1,1,585,1417,158,1782
+hackingdata,Jeff Hammerbacher,2083,2034,1,1,5377,38,984,15674
+dataScienceRet,dataScienceRetreat,175,262,0,1,301,0,57,1320
+mikiobraun,mikiobraun,2175,8211,1,1,706,1712,177,2209
+t1c1,Thomas Ciszek,1391,15394,1,1,3882,3361,189,6087
+InsightDataSci,Insight Data Science,731,47,0,1,51,4,33,518
+SVDataScience,SV Data Science,413,224,1,1,195,71,36,468
+TedOBrien93,Data Science Report,1110,1566,1,1,1898,19,51,1649
+nicolastorzec,Nicolas Torzec,1751,4221,1,1,418,20,149,1551
+drewconway,Drew Conway,1963,20046,1,1,296,522,691,9348
+MichaelDHealy,Michael D. Healy,2142,4082,0,1,1455,772,115,1210
+DataScience_AE,Data Science,89,266,1,1,1614,166,83,1926
+DataScienceBe,Brussels DataScience,85,579,0,1,1979,80,19,705
+vagabondjack,Michael Conover,1545,1622,1,1,326,258,70,867
+revodavid,David Smith,1848,5367,0,1,833,2088,850,10667
+datasci_Global,Data Science Global,789,71,0,1,34,0,24,324
+chicagodata,Data Science Chicago,462,69,1,1,249,0,42,647
+cdsscu,CU Data Science Soc,391,15,0,1,12,0,22,108
+datasciencetips,Data Science Tips,1486,11,1,1,68,1,29,1375
+DataSciNews,DataScienceWeekly,175,1044,1,1,21,48,39,786
+DataScienceATL,Data Science ATL,718,191,0,1,111,6,12,171
+tumra,TUMRA | Data Science,778,22,1,1,103,0,38,198
+DataJunkie,Ryan Rosario,2330,12225,1,1,766,2166,723,8476
+johnmyleswhite,John Myles White,2135,14504,0,1,651,2176,449,7948
+thedatascilab,Data Science Lab,91,36,1,1,155,2,6,120
+strataconf,O'Reilly Strata,1400,4470,1,1,1616,2293,1015,18060
+DataScience201,Data Science 201,552,210,0,0,33,0,12,91
+DataScienceROCK,Southern_Charmer,1072,17315,1,1,1448,2,6,1066
+DataScienceBLN,DataScience Berlin,832,37,1,1,8,0,17,103
+BecomingDataSci,Data Science Renee,90,485,0,1,491,86,9,210
+MikeGianella,Mike Gianella,1609,53354,1,1,451,4806,357,4717
+b0rk,Julia Evans,2536,3822,1,1,323,2620,123,2662
+q_datascience,Data Science,1283,429,0,1,0,0,26,143
+cameronmarlow,Cameron Marlow,2807,194,1,1,320,44,185,3971
+DataScienceJob,DataScience Jobs,226,16,1,1,218,0,4,94
+UNGPDataScience,UNGP Data Science,55,56,1,1,147,34,9,116
+DataScienceLA,Szilard,78,25,0,1,111,0,2,121
+DataScienceLINA,DataScienceNantes,233,115,0,1,168,82,8,133
+DataScienceIndy,DataScience Indy,453,90,0,1,4,0,20,91
+DataScienceLab,Data Science Lab,174,219,1,1,342,34,18,199
+chrisalbon,Chris R. Albon,2333,51465,1,1,493,118,530,5545
+DataScienceX,DataScienceX,107,83,1,1,1123,2,19,391
+datascience_c,Data Science Center,422,40,0,1,133,0,19,160
+DataScienceFeed,Data_Science_Exeter,268,50,0,1,107,20,4,108
+DataScienceDC,Data Science DC,83,2,0,1,1,0,1,34
+battymarc,Marc BATTY,583,785,1,1,363,14,35,371
+chrismentzel,Chris Mentzel,2204,551,1,1,109,10,20,244
+timefulapp,Timeful,192,153,1,1,144,279,24,849
+chasedavis,Chase Davis,1709,1368,0,1,910,28,299,3193
+dhgisme,danielle gould,1570,9503,1,1,1119,213,517,7337
+LeapingLlamas,Carl Anderson,2463,1704,1,1,445,117,50,611
+alexlundry,Alex Lundry,1940,6283,1,1,2242,11,301,3823
+badassdata,badass data science,1052,279,1,1,114,3,21,140
+senseplatform,Sense,900,88,1,1,10,15,28,512
+wesmckinn,Wes McKinney,1547,4901,0,1,494,262,393,6789
+herdrick,Ethan Herdrick,2619,354,1,1,532,75,46,1021
+_thespread,thespread.us,179,100,0,1,14,7,25,328
+johnb30,John Beieler,1416,1977,0,1,423,351,36,463
+DataScienceFr,Data Scientists,426,0,1,1,161,0,12,268
+DataSci_Berlin,Data Science Berlin,779,39,0,1,35,1,8,149
+greglinch,Greg Linch,2327,27718,1,1,3021,7366,817,7373
+SCU_DataScience,SCU DataScience,174,5,0,1,20,0,0,21
+sagemintblue,Andy Schlaikjer,1766,212,0,1,1335,709,42,1248
+BDataScientist,Juan Miguel Lavista,619,1120,1,1,1156,75,49,942
+AJEbsary,Adrian J. Ebsary,1794,12822,1,1,1021,4559,537,6129
+dsrcnl,Data Science A'dam,98,41,0,1,48,1,3,46
+wasima,Wasim Ahmad,2170,3207,1,1,1124,312,91,954
+Fliptop,Fliptop,2050,1972,1,1,5817,14,805,13033
+Buffalo_Theory,John Fleury,1672,26203,1,1,1267,866,89,1454
+covert,Andrew Walkingshaw,2624,5559,0,1,168,754,100,1107
+davidcoallier,David Coallier,2161,11076,1,1,757,555,279,3528
+josh_wills,Josh Wills,2208,7050,1,1,833,4285,271,5361
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+hannawallach,Hanna Wallach,608,210,1,1,351,0,94,1534
+dimitri_gnidash,Dimitri Gnidash,2289,509,1,1,264,29,14,252
+MDMGeek,Prash Chan,1818,19810,1,1,2329,967,234,3998
+DataSciTheme,SICSA Data Science,23,19,0,1,51,1,2,42
+dff,Donald Fischer,2716,312,0,1,498,311,72,1339
+greenbacker,Charlie Greenbacker,2121,15547,1,1,2420,69,116,4222
+MichelangeloDA,MichelangeloDAgostin,1914,382,0,1,430,8,48,652
+F1000Research,F1000Research,1758,2837,1,1,398,84,186,4270
+elisabetta_tola,elisabetta tola,1714,3229,1,1,524,350,88,1444
+NASA_Giovanni,NASA Giovanni,1470,593,1,1,103,0,51,1284
+ODSFP,Open Data Science ,123,52,1,1,186,7,8,72
+dataiku,Dataiku,611,172,1,1,27,23,34,522
+helenaedelson,Helena Edelson,1607,1248,1,1,201,277,99,1504
+jrmontag,Josh Montague,1795,30618,1,1,2007,1060,172,1927
+thinkshiv,Shiven Ramji,2302,5220,1,1,2004,6,73,1670
+nikhilbd,Nikhil Dandekar,1779,1397,1,1,540,70,19,245
+imdaviddietrich,David Dietrich,993,438,0,1,299,9,55,332
+reiver,Charles,2251,42165,1,1,2072,16951,211,2208
+cdhowe,Carl Howe,2282,4639,1,1,141,79,102,1093
+echen,Edwin Chen,1728,985,1,1,315,1265,231,4776
+data__science,Sjaun Wong,1943,2451,1,1,17,4,12,89
+JulioBarros,Julio Barros,2307,3702,1,1,813,25,164,2059
+ShlomoArgamon,Shlomo Argamon,1642,6817,1,1,878,265,111,1135
+rayidghani,Rayid Ghani,2374,81,0,1,130,0,69,1354
+sureddy,Surendra Reddy,1970,2061,1,1,1493,47,205,1922
+evanslaurab,Laura Evans,1156,241,0,1,145,94,17,327
+ciro,Ciro Cattuto,2693,1447,1,1,940,1579,126,1550
+Fatima_A_Ghani,Fatima Ghani,176,168,1,1,211,41,10,201
+beyondthearc,beyondthearc,1958,8897,1,1,1813,216,135,3350
+dinocitraro,Dino Citraro,2155,1379,1,1,715,129,68,770
+parapraxist,Parapraxist,1194,9345,1,1,1216,4181,27,1466
+osma,Osma Ahvenlampi,2535,4710,1,1,538,110,71,1743
+JimAnning,Jim Anning,2211,6654,0,1,1387,177,114,1504
+iHapa,Chris Rottler,2147,3032,1,1,736,32,68,958
+D_Hong,Daniel Hong,1874,3434,1,1,1260,116,112,2199
+bmabey,Ben Mabey,2580,2441,1,1,521,422,111,959
+WarwickDataSci,Warwick Data Science,344,113,1,1,69,0,6,66
+SDDataScience,SD Data Science,354,4,1,1,6,0,2,15
+hidden_node,Data Science,248,242,0,1,106,0,3,33
+DavidHochheiser,David Hochheiser,1622,14986,1,1,2266,3175,73,2157
+kategage,Kate Gage,1627,412,0,1,780,145,20,442
+diegovalle,Diego Valle-Jones,2229,492,1,1,136,441,50,970
+norabean,Naureen Nayyar☀,1990,5080,1,1,1545,638,50,1090
+kaythaney,Kaitlin Thaney,1898,22281,1,1,1161,1855,423,6178
+ealdent,Jason Adams,2453,2771,1,1,326,14,107,1073
+DataScienceCH,Data Science CH,344,16,1,1,1,0,3,42
+BigDataExperts,Big Data Partnership,863,816,1,1,221,38,59,1206
+GE_Data_Viz,GE Data Viz,1213,57,1,1,64,0,43,796
+DataSciABQ,Data Science ABQ,245,135,0,1,32,0,11,53
+WinVectorLLC,WinVector LLC,407,276,0,1,257,228,31,262
+__DataTau__,Data Tau,152,856,0,1,0,1,58,948
+_inundata,Karthik Ram,1156,7857,0,1,692,6494,140,2048
+DataSciToolbox,Data Science Toolbox,221,28,0,1,2,2,5,115
+MyDataScience,Taylor Smith,159,17,1,1,53,9,0,24
+LearnData,Data science,300,37,1,1,147,3,4,44
+BigDataAnalysis,John Akred,1282,532,1,1,944,100,174,1643
+schooltds,School Data Science ,24,53,1,1,106,10,2,71
+DataScienceSA,Data Science SA,85,28,1,1,89,1,1,38
+BigDataSpeaker,Sushil Pramanick,1645,4483,1,1,885,48,147,2412
+bigdata_science,Big Data Science,850,0,0,1,1,0,24,92
+robotenomics,RobotEnomics,231,3579,1,1,1010,1965,49,912
+DSS_DataScience,DSS,805,145,0,1,65,0,5,33
+DataScienceHbt,Data Science Hobart,73,17,0,1,68,1,1,30
+afwong,Angela Wong,1583,1970,1,1,776,39,32,444
+EmpiriEducator,Empirical Educator,322,2758,1,1,1997,1058,22,939
+datascience,Data Science,1254,0,0,0,16,0,8,44
+BigDataSc,Vitaly Gordon,1504,656,0,1,89,9,30,485
+grayj_,Jim Gray,633,8519,1,1,784,7119,26,514
+jeffrey_heer,Jeffrey Heer,1195,195,1,1,233,189,193,2966
+AlpineDataLabs,Alpine Data Labs,1114,937,1,1,397,55,72,696
+databigbang,Data Big Bang,1233,158,0,1,265,67,11,182
+paldhous,Peter Aldhous,721,2421,1,1,1306,56,175,2454
+WebDataScience,WebDataScience,171,2,0,1,13,0,0,16
+BR_DataScience,DataScience,333,99,1,1,43,0,1,14
+DataSciencePro,Jason Davis,786,13,1,1,18,0,9,37
+DiggingIntoData,Digging Into Data,1918,256,0,1,0,3,137,1747
+DataScienceMD,DataScienceMD,195,2,0,1,1,0,0,20
+OrlandoData,Orlando Data Science,45,28,1,1,23,1,3,41
+DataToViz,Susie Lu,1185,191,1,1,338,121,27,251
+jasondavies,Jason Davies,2694,1985,1,1,386,1196,284,3618
+arnicas,Lynn Cherny,2554,22350,1,1,1670,4318,288,3478
+tkb,Tariq Khokhar,2636,9409,1,1,2057,1066,424,5085
+ds_science,Data Storage Science,573,4,1,1,10,0,0,21
+clarihq,Clari,336,147,1,1,195,20,6,233
+UKDataArchive,UK Data Archive,1005,940,1,1,1679,9,88,2622
+DataScienceBox,DataScienceBox,507,0,0,1,0,0,11,9
+TR_SciScoop,TR Science Scoop,1123,32,1,1,53,0,17,372
+bigdatathink,Data Science,55,30,1,1,53,0,1,30
+macengr,Scott McWilliams,2612,15994,1,1,918,102,65,600
+DataWzrd,Martijn Schut,1651,2708,1,1,531,0,35,375
+pierreroudier,Pierre Roudier,1422,3684,1,1,547,677,12,294
+data_wizard,Data Mining,1853,291,1,1,220,5,44,578
+jakeporway,Jake Porway,1900,3930,1,1,282,1154,492,6290
+DataScienceDev,Erik Anderson,718,4,0,1,15,0,0,8
+GoDataDriven,Go Data Driven,432,18,1,1,7,0,7,90
+DataScienceClub,Data Science Club,211,25,1,1,94,1,2,12
+BigRahimBigData,@BigRahimBigData,542,216,0,1,1987,1,24,585
+alanmrice,Alan Rice,2524,38136,1,1,1904,2709,44,1260
+DataScienceHun,Data Science Hungary,749,4,0,0,115,0,8,40
+languagehacker,Robert Elwell,1528,10080,1,1,237,2191,9,297
+datasimple,datasimple,1035,222,1,1,546,11,16,333
+datawrangling,Data Wrangling,1931,10,0,1,57,9,3,52
+fhuysmans,Frank Huysmans,1661,16281,1,1,1028,748,126,1949
+data_lux,Data Science Lux,99,9,0,1,16,0,0,10
+jakevdp,Jake Vanderplas,634,976,0,1,146,235,169,2794
+bigdatascience_,Big Data Science,801,0,0,1,56,0,13,28
+AlexanderD_Beck,Alexander Beck,1066,801,0,1,1272,1139,160,5461
+kathykmy,Kathy Yu,1844,957,1,1,311,69,22,203
+dsoxford,Data Science Oxford,494,1,0,0,7,0,7,24
+Data2364,JeanLucStewart,1411,64849,1,1,1794,5587,64,1615
+BigDataBrighton,Big Data Brighton,744,52,0,1,115,0,20,190
+DDSecBlog,Data Driven Sec Blog,129,164,1,1,20,16,7,133
+statshero,ulrich atz,782,866,1,1,200,182,33,418
+eli_awry,eli feasley,916,388,1,1,235,84,13,245
+jon_abbott,Jon Abbott,1011,5974,0,1,814,22,8,381
+ds_ams,Data Science AMS,85,15,0,1,7,0,1,7
+gopivotalDS,Pivotal Data Labs,265,65,0,1,193,16,13,188
+DataLabScotland,The Data Lab,175,2,0,1,0,0,5,128
+hackingscience,hacking science,575,90,0,1,62,0,3,108
+sbashyal,Data Hacker,2072,329,0,1,391,41,15,187
+scotthaylon,Scott Haylon,906,1283,1,1,222,11943,37,1099
+silScience,sil,208,448,0,1,763,11,2,220
+science_goddess,science_goddess,2223,16587,1,1,531,297,194,2168
+pstyd,פרס,1712,35675,0,1,488,1113,9,190
+DataSciHipster,Data Science Hipster,37,12,1,1,55,2,0,8
+DataScience_,Health Policy Data ,61,30,1,1,102,30,0,10
+JobsDataScience,JobsDataScience,260,132,0,1,49,1,1,19
+jattenberg,josh attenberg,1214,1741,0,1,365,824,46,539
+beccax,Rebecca Xiong,2592,562,1,1,738,9603,127,2448
+yvesalexandre,Yves-Alexandre,2209,595,1,1,180,15,50,725
+umnwilson,Wilson Library,1227,1208,1,1,683,11,32,555
+jeroenhjanssens,Jeroen Janssens,686,494,1,1,308,294,57,1161
+DataSciencesInt,Data Sciences Int.,812,192,0,1,37,0,1,67
+lauriejoyfrick,laurie frick,1846,888,1,1,881,125,51,865
+WOW1977,Cat Laplace Builhe,1763,16673,1,1,813,2,56,519
+joshdsullivan,Josh Sullivan,2007,680,1,1,283,5,59,2279
+DataScholars,DataScholars,455,167,1,1,98,0,12,89
+ClouderaU,Cloudera University,1087,780,0,1,1412,1,128,2893
+burtmonroe,Burt Monroe,1908,347,0,1,737,0,39,668
+jpvelez,Juan-Pablo Velez,2144,2195,0,1,383,97,64,717
+jhajagos,Janos Hajagos,2114,791,1,1,476,1361,19,181
+John4man,John Foreman,904,2656,1,1,317,2159,493,8931
+DataDrivnHealth,Adrish Sannyasi,1908,64,1,1,479,10,9,124
+MastodonC,Mastodon C,836,279,0,1,129,0,76,868
+DLabAtBerkeley,D-Lab,432,1069,0,1,528,228,23,721
+AngelaZutavern,Angela Zutavern,151,738,0,1,2419,688,49,2412
+gunjan_amit,Gunjan Aggarwal,1966,218,1,1,489,2,28,2712
+sanjaymathur,Sanjay Mathur,2229,2198,1,1,367,86,62,856
+bgoncalves,Bruno Gonçalves,2171,3724,1,1,413,5,58,850
+annez,Anne Zelenka,2696,2253,1,1,235,8,24,583
+P1_DataScience,P1 Data Science,605,161,1,1,16,0,6,19
+OpenDataScience,Open Data Science,667,2,0,1,3,0,5,4
+someben,Ben Gimpert,1164,1446,1,1,143,455,16,299
+IHasDataScience,Data Scientist,50,5,0,1,0,0,0,2
+dspadawan,Data Science Padawan,112,20,0,1,23,4,0,6
+fultondata,Intro Data Science,376,3,0,1,4,0,2,2
+mining_reality,Data Science,1178,15,1,1,1,0,4,10
+erick45ar,Erick Irigoyen,1999,1995,1,1,749,8,11,826
+DataScience101,Data Science 101,703,0,0,1,0,0,4,10
+KiwiDataScience,Kiwi Data Science,199,24,1,1,10,0,3,7
+ChicagoDataInc,Chicago Data Science,416,1,0,1,20,0,4,15
+DrBonnie360,Bonnie Feldman,1065,2953,1,1,702,18,65,995
+tvargs,Tim Varga,1952,715,1,1,437,504,6,196
+TJO_datasci,TJO,409,21840,1,1,289,125,220,3385
+datascimentor,Data Science Mentor,51,2,0,1,0,0,0,2
+yaelgarten,Yael Garten,1397,30,0,1,62,0,34,407
+DataScienceLnx,Data Science,627,0,0,1,4,0,4,3
+taswegian,Peter Fox,2127,1184,1,1,19,80,48,539
+pebourne,Philip E. Bourne,1214,28,0,1,53,1,30,536
+michaelyoungMBN,Michael Young,998,5881,1,1,2923,211,47,7588
+hadleywickham,Hadley Wickham,1723,7613,1,1,170,139,421,6573
+texardata,TEXAR Data Science,1308,4,0,1,0,0,0,1
+matsiyatzy,Audun Mathias Øygard,1276,180,0,1,67,46,24,681
+GamingOutLoud,Think Gaming,489,68,0,1,300,7,11,383
+acidflask,Jiahao Chen,2409,6653,1,1,379,103,59,715
+hackdatascience,Hack Data Science,197,7,0,1,8,0,2,2
+BDSPodcast,Big Data Science,315,1,0,1,0,0,4,4
+DataGRDN,Data Garden,1264,1939,1,1,946,1831,51,1503
+DataScienceTest,Data Science Test,370,0,0,1,11,0,2,2
+JocelynTutak,Jocelyn Tutak,1491,2003,1,1,1322,164,82,910
+jscarto,Joshua Stevens,2042,2140,1,1,393,480,37,599
+NewDataScience,BI - Value in Data,318,0,0,1,0,0,0,0
+DataScienceJobs,Data Science Jobs,752,1,0,1,5,0,4,6
+SpartaScience,Sparta Science,840,1314,1,1,0,112,13,1338
+dbtrends,DBTA Magazine,1213,1919,1,1,957,1,69,1066
+isaacgreenbaum,Isaac Greenbaum,1568,35,0,1,158,0,18,157
+JillianPenrod,Jillian Penrod,1658,3302,1,1,990,424,48,662
+hlapp,Hilmar Lapp,1946,2115,1,1,347,170,34,562
+mattVDiLeo,Matthew V DiLeo,1099,3300,1,1,2002,44,36,848
+algoriffic,Anthony Fox,1593,690,1,1,675,229,39,387
+JaffrayW,Jaffray Woodriff,987,4519,1,1,2788,88,114,3282
+mrjose,José Pablo González,2123,3450,1,1,429,209,19,353
+JordanMartz,JordanMartz,2419,917,1,1,1720,14,32,903
+andrewblair,Andrew Blair ™,2381,2004,1,1,225,18,28,503
+ivan_d,Ivan Davchev,2256,1233,1,1,106,92,28,397
+carlosiglesias,Carlos Iglesias,2022,2400,0,1,653,936,68,731
+AnalyticsChap,Joe Burridge,295,831,1,1,5169,43,204,9175
+SocialTrep,Mike Hurley,1027,4157,1,1,2241,632,27,1668
+mattrussell_PhD,Matthew Russell,1262,5119,0,1,539,3343,27,672
+brandsteve,Steven Miller,2371,1224,1,1,1938,87,63,1069
+pinoystartup,Simplicio Gamboa III,1961,3819,1,1,1439,14927,45,481
+aekae,Adam Klein,2042,963,1,1,301,113,17,373
+emctv,EMC TV,924,2326,1,1,740,97,44,2391
+antgoldbloom,Anthony Goldbloom,1398,2206,1,1,351,77,327,5333
+DataSciences,Colin Michael,574,327,1,1,29,0,0,25
+aseth,Amit Seth,2498,913,1,1,50,5852,19,415
+jlowin,Jeremiah Lowin,1474,155,1,1,121,11,6,51
+medriscoll,Michael E. Driscoll,1968,1780,1,1,835,276,959,11522
+rameshbabua,Ramesh Babu,1939,5302,0,1,1991,0,91,1332
+mrowebot,Matthew Rowe,2291,4467,1,1,530,114,67,791
+JohnSJohnson3,John S Johnson,1702,29,0,1,29,0,10,77
+Sparerica,Erica Warren,536,556,1,1,94,418,5,60
+sjwhitworth,Stephen Whitworth,1943,10246,1,1,697,978,27,567
+CODATANews,CODATA,798,484,0,1,365,122,34,470
+KathyScientist,Kathy Copic,419,97,0,1,450,69,5,220
+WaterCode,Water Code,280,557,1,1,624,564,14,469
+KinseyReporter,Kinsey Reporter,730,609,1,1,330,26,14,595
+MovingRocks,Dave Smithey,1623,3895,1,1,2000,71,50,986
+etangent,Eugene Scherba,1281,2331,1,1,1997,3644,36,299
+peyron,Julio E. Peironcely,2604,3822,1,1,427,25,66,1034
+MayogaX,Priscila Mayumi Sato,1897,13394,1,1,700,1215,82,1168
+BenRoyce,Ben Royce,1840,3412,1,1,1700,6,26,1779
+DataONEorg,DataONE,1274,457,1,1,329,14,87,1191
+krispychoi,christina choi,70,32,0,1,97,12,0,36
+laserson,Uri Laserson,1906,168,1,1,349,6,51,400
+Addison_W,▼ Addison P. Wheeler,1944,4395,1,1,997,744,13,497
+monsterswell,Monster Swell,1591,411,1,1,1994,23,41,379
+Stelow,Stella Low,1892,2619,1,1,826,207,30,1130
+allenlin,Allen Lin,2058,71,0,1,205,0,15,173
+ccsevers,Chris Severs,1130,330,1,1,124,279,9,195
+ttk__,Tristan Teunissen,2552,6092,1,1,554,4,35,529
+enzondio,Jeff Elmore,2206,1364,1,1,1317,0,47,545
+saoirsegirl,Paula Despins,1530,538,1,1,1970,22,24,688
+mircomusolesi,Mirco Musolesi,2044,945,1,1,337,195,45,539
+PeterKraker,Peter Kraker,1728,1351,0,1,691,123,61,646
+Terry_Timko,Terry Timko,1413,418,0,1,897,191,16,568
+jonathanbingham,Jonathan Bingham,1885,726,1,1,196,5,18,263
+taylorcphillips,Taylor Phillips,1868,36,1,1,218,9,11,176
+joeldylan,Niels Joaquin,1583,2073,1,1,593,462,34,559
+AvidanRoss,Avidan Ross,1477,128,0,1,243,15,7,185
+menasheschorr,Menashe Schorr,1233,350,1,1,653,1,13,259
+kheraldo24,Karen,792,3571,1,1,1547,876,22,1829
+raminetinati,Ramine Tinati,1819,1468,0,1,195,154,27,328
+AndyRMartin,Andy Martin,1796,1989,1,1,419,0,50,1091
+jershane,Jeremy Shane,1932,518,0,1,910,1,11,340
+harrisony,Harrison Conlin,2750,8844,1,1,435,480,23,491
+paulboal,Paul Boal,1987,710,0,1,680,34,81,856
+tdomhan,Tobias Domhan,1641,764,0,1,349,135,39,372
+NagleMary,Mary Nagle ,789,1322,1,1,21912,438,72,24390
+PMeins,Paul Meinshausen,806,2369,1,1,161,299,33,255
+GI_DataScience,DataScience,1087,0,0,0,0,0,1,4
+iBaUbaid,Ahmad BaUbaid,1495,24455,1,1,181,48,16,417
+tonyrogerson,Tony Rogerson,1950,3898,1,1,101,4,70,975
+DatasciA,Data Science Assignm,369,0,0,0,10,0,4,7
+F_E_Charles,Fritz Charles,1453,4841,0,1,1141,102,35,641
+datascience_chi,Data Science Chicago,462,0,0,0,4,0,4,6
+kgryte,Athan Reines,1093,4724,1,1,1383,1162,53,589
+berkeleymalagon,Berkeley Malagon,2493,2340,1,1,598,1472,26,388
+nlak,Naeem Lakhani,2115,2944,1,1,826,3,49,681
+datassist,Heather Krause,1886,370,1,1,640,18,45,497
+nyucds,NYU CDS,180,20,1,1,33,0,7,99
+SF_BayArea_ACM,SF Bay Area ACM,1847,460,1,1,77,3,8,282
+mariusbutuc,Marius Butuc,2505,3414,1,1,675,1047,64,924
+RichBonneauNYU,Richard Bonneau,757,303,1,1,546,15,16,340
+miketwardos,Michael Twardos,2174,899,1,1,164,3,18,233
+danyoel,Dan Liebling,1869,549,1,1,117,2,13,220
+trevorbass,Trevor Bass,1909,962,0,1,1886,0,23,605
+graybeardpgmr,Michael Perkins,697,319,0,1,848,1,23,456
+remeniuk,Vasil Remeniuk,1593,1345,1,1,161,46,61,553
+IDSE_Columbia,Columbia IDSE,469,529,1,1,110,11,32,425
+jose_datasci,Jose Data Science,373,0,0,0,0,0,4,4
+WesGBrooks,Wes Brooks,1506,1704,1,1,726,42,36,776
+DataScienceApar,DataScience_Aparna,361,0,0,0,0,0,0,5
+taslanous,Tas Lanous,1561,4303,0,1,713,479,18,318
+BirderNetwork,Birder,1280,846,1,1,230,3,55,1201
+datasci_prob,data science probs,59,1,0,0,0,0,0,2
+DataScience2,DataScience,374,0,0,0,10,0,1,5
+datascienceCL,Data Science Chile,436,0,0,0,0,0,2,6
+nonamekyla,Kyla,791,1866,1,1,1037,3472,11,308
+jaiderog,Jaider Ochoa G.,1839,7430,1,1,987,95,59,851
+metaAnnelies,Annelies Kamran,1634,10961,1,1,613,538,28,414
+MattJermyWright,Matthew Wright,1898,630,0,1,142,38,35,530
+mbsmrtic,Mary Beth Smrtic,1297,660,1,1,368,35,24,269
+GamblingPolicy,Kahlil Philander,448,207,0,1,131,36,4,211
+tfchampney,Timothy Champney,1829,349,1,1,1808,4,13,541
+v_danner,Valentin Danner,1912,1036,1,1,480,17,27,673
+antonioalegria,Antonio Alegria,1884,6530,0,1,112,1687,34,460
+madprime,Madeleine Price Ball,1714,497,1,1,73,14,11,182
+SolomonMg,Solomon Messing,1697,149,0,1,293,139,14,171
+MechanicalTim,MechanicalTim,1659,2602,0,1,100,12,10,149
+dloss,Dirk Loss,1845,2698,1,1,72,2591,43,465
+annikaalford,Annika Jimenez,1869,372,1,1,61,51,35,542
+dkirkmcdonald,Kirk McDonald,1930,1308,1,1,392,58,14,173
+NOAAClimate,NOAA Climate.gov,762,1175,1,1,277,50,546,13734
+cotdp,Michael Cutler,1326,718,1,1,610,29,43,451
+rmauceri,Rob Mauceri,2311,131,0,1,116,16,8,86
+allcircuitsbusy,Alan Araujo,2395,953,1,1,531,23,15,348
+Jeongki,Jeongki Lim,2044,551,1,1,261,20,11,369
+abetaha,abetaha,2135,1091,0,1,234,5,22,317
+mr_itter,Matt Ritter,1324,460,1,1,405,23,4,215
+NextGenCMO,Dominique Levin,1903,676,0,1,151,0,50,564
+dTorchiano,David Torchiano,1898,823,1,1,799,12,20,219
+bendaizer,Grindaizer,2008,7478,1,1,455,166,57,782
+DataScienceLife,Gregory walton,65,0,0,0,1,0,0,1
+mrjoefrank,Joseph Frank,1893,544,1,1,2001,33,31,513
+commonsbc,CommonsBC,744,562,1,1,1785,68,24,771
+r00sj3,Roos,2242,20726,1,1,998,6,32,520
+DBA_J,Jason Williams,1163,1577,0,1,1998,0,42,724
+bfdatascience,BF Data Science,93,0,0,0,0,0,0,0
+aribajahan,Ariba Jahan,1324,678,1,1,737,867,26,455
+conornash,Conor Nash,1889,297,0,1,332,18,15,248
+matthew_gamble,Matthew Gamble,2010,379,0,1,413,5,16,200
+David2Bxact,David Clark,2071,828,1,1,1879,40,33,716
+David_Hoard,David Hoard,1845,533,1,1,1997,449,17,376
+jmr_v,john rutherford,2042,1627,1,1,168,363,11,188
+imitrovic,Ivan Mitrovic,2622,698,1,1,161,14,31,322
+quantumblack,QuantumBlack,1881,356,1,1,482,0,33,378
+klabol,Klaas Bollhoefer,2200,1597,1,1,91,816,29,327
+fjnogales,Javier Nogales,1200,2832,1,1,574,209,45,518
+BIroundtable,ThingsMalafskySays,1270,1013,1,1,1560,9,29,1477
+kkal24,Krishna Kaliannan,344,154,0,1,850,24221,29,898
+Augify,Augify,1102,738,1,1,747,36,24,385
+k0emt,Bryan Nehl,2215,3619,1,1,659,56,30,382
+konradfoerstner,Konrad Förstner,2158,4148,1,1,248,72,31,267
+chatterboxco,Chatterbox Labs,1103,402,0,1,707,3,31,569
+mfcabrera,Miguel Cabrera,2578,2649,1,1,749,9,21,640
+NitinK,NitinK,2299,268,0,1,40,0,7,186
+nitish,Nitish Upreti,2219,16792,1,1,824,193,28,557
+jamesbev,James Beveridge,2183,260,1,1,226,4,9,138
+deronaucoin,deronaucoin,1952,5537,0,1,383,1460,17,155
+AnnoviGiulia,Annovi Giulia,901,1799,1,1,751,523,25,576
+rogcraig,Roger Craig,1349,3707,1,1,1143,302,48,1909
+raaidahmad,Raaid Ahmad,1013,508,1,1,171,0,29,205
+apanisson,André Panisson,1430,116,0,1,327,25,19,266
+germeyy,George Medzhidiliev,1755,9832,1,1,515,1872,6,209
+DMcC222,Dave McClure,736,719,1,1,189,233,13,157
+lmrei,Luis Rei,2675,2513,1,1,363,111,22,414
+LevelUpCrew,Level Up Analytics,786,78,1,1,76,20,12,144
+dmanww,dmanww,2202,9935,1,1,1067,27,17,370
+notrockstar,tatsiana,2139,1052,1,1,317,122,19,238
+NihonjinRXS,Ryan B Harvey,2211,961,1,1,1517,301,21,349
+MarkRThorley,Mark Thorley,594,13,0,1,6,0,10,172
+sharonite,Sharon Ng,1837,1570,1,1,1057,76,35,457
+Geographica_GS,Geographica.gs,1024,1599,1,1,870,103,68,1271
+diojenez,Alex Dow,1783,382,0,1,155,35,5,113
+BradClement,Brad Clement,1088,142,1,1,469,182,16,472
+fastml_extra,fastml extra,347,581,1,1,64,491,26,406
+xvd,David Johnson,2187,407,1,1,133,0,28,156
+SDKaszycki,Steve Kaszycki,1820,567,0,1,1154,72,12,257
+lelayf,François Le Lay,2260,1091,1,1,912,23,28,403
+Tarpus,Amir Behbehani,1901,3212,1,1,69,46,13,244
+sznapka,Wojciech Sznapka,1647,1625,1,1,742,419,38,589
+harbolkn,Kris,1018,23,0,1,61,10,6,65
+danielM1960,Daniel Melendez,1697,6977,0,1,1990,3104,18,768
+eddywongch,Eddy Wong,1457,932,0,1,746,281,43,261
+korinreid,Korin Reid,1709,14552,1,1,1363,1203,9,549
+prelert,Prelert,1392,2451,1,1,1480,123,29,530
+mutabazi,Maurice Nsabimana,1966,2124,1,1,418,239,5,311
+Josherz,Joshua Danger Weaver,2057,11184,1,1,546,386,22,435
+euclid_project,EUCLID project,695,899,1,1,458,76,37,381
+opryymak,Oleksandr Pryymak,2214,764,1,1,179,75,24,305
+saamatechinc,Saama Technologies,1007,3848,1,1,389,1,41,513
+cosmos_project,COSMOS,701,322,1,1,445,25,37,389
+Springcoil,Peadar Coyle,2289,3244,1,1,735,16,11,233
+jaidevd,Jaidev Deshpande,1302,3077,1,1,251,165,13,282
+CristinaDaRold,Cristina Da Rold,549,1259,1,1,819,131,20,486
+4Cinsights,4C,147,41,1,1,31,14,5,107
+Dotcomczar,Rajiv Unnikrishnan,1749,26579,1,1,366,10,13,639
+calstad,Colin Alstad,1997,982,1,1,326,18,16,193
+kananii,kananii,2274,693,1,1,394,4,16,258
+mercecrosas,Mercè Crosas,1830,130,1,1,115,40,21,218
+farooqmjaved,Farooq Javed,1099,938,0,1,905,37,14,229
+sharanjit,Sharanjit Paddam,1915,7662,1,1,847,315,13,483
+thejaan,Jaan Altosaar,287,26,1,1,247,173,5,162
+FreeStructure,FreeStructure,421,112,0,1,1976,42,38,743
+OyvindIsene,Øyvind Isene,1913,3496,0,1,429,283,32,683
+JimiShan,james,1834,115,0,1,137,1,12,158
+vambati,Vamshi Ambati,1856,952,1,1,391,107,19,273
+FinDataScience,LDV,27,3,0,0,33,0,0,9
+laughingcavs,Laughing Cavs,574,1552,0,1,501,413,20,535
+mherradora,Michael Herradora,1449,2950,1,1,926,24,22,411
+AaaLee,Ali Syed,1838,4469,1,1,1909,89,45,471
+tanisjones,Jordi Duch,1989,300,1,1,167,12,10,521
+BaileyPeter,Peter bailey,1602,1724,1,1,488,14,9,264
+prfsn,profusion,1612,558,1,1,562,0,103,751
+scorvey,H.Koch,1826,1833,1,1,948,53,22,309
+PaulKullich,Paul Kullich,2550,71,1,1,393,2,18,337
+TimJellison,Tim Jellison,1793,1118,0,1,892,42,26,336
+ingeniousTechie,Mukesh Yadav,2050,2097,1,1,389,66,20,481
+rensa_co,James Goldie,1862,2428,1,1,594,133,21,301
+rpietro,Ricardo Pietrobon,1949,1507,1,1,1157,20,16,456
+MTizzoni,Michele Tizzoni,959,625,1,1,244,13,16,248
+BayesianWitch,Bayesian Witch,240,127,1,1,172,8240,17,311
+DrMattRoach,Matt Roach,1610,2059,1,1,340,4,58,467
+neuralt,Tamara Knutsen,1430,28,0,1,705,0,5,118
+brianfeeny,Brian Feeny,1793,1038,1,1,184,8,34,410
+MScCompJCardiff,CardiffUni MSc CompJ,30,14,0,1,207,132,9,84
+AriLamstein,Ari Lamstein,120,271,0,1,95,175,4,83
+glhuilli,Gaston L'Huillier,1797,1561,1,1,725,14,25,484
+tomoshige_n,Tomoshige Nakamura,1663,21014,1,1,206,351,103,991
+hunglin,Hung Lin,1951,476,1,1,1005,4,11,233
+BirdLife_IM,BirdLife Info Mngmnt,814,708,1,1,694,47,4,363
+AmanQA,Aman Ahuja,1820,946,1,1,58,238,14,153
+ElasticaInc,ELASTICA,111,332,1,1,1429,242,12,549
+aliciacita,Alicia Riley,1771,280,1,1,532,44,4,196
+raymondkenney,raymondkenney,1218,310,0,1,278,78,15,279
+DrLyndonWalker,Dr Lyndon Walker,726,1902,0,1,261,237,17,285
+ashleyswain,Ashley Ohmann,2051,413,1,1,474,13,14,232
+jonathanheusser,Jonathan Heusser,740,160,1,1,307,574,4,172
+slegroux,Sylvain Le Groux,1283,169,0,1,1181,2,15,357
+jtbarbour,Jason Barbour,593,173,1,1,474,0,13,189
+Georgina_Milne,Georgina Milne,2138,9491,1,1,194,6,16,350
+xlfe,Felix Barbalet,1381,2042,1,1,1439,79,15,379
+nimrodpriell,Nimrod Priell,1662,1103,1,1,237,251,18,239
+AtillaE,Atilla Erdődi,1723,1233,0,1,209,228,21,273
+Adam_Unger,Adam Unger,1966,1672,0,1,472,13,9,212
+TomAugust85,Tom August,975,1314,1,1,244,28,18,320
+PublicPolicyIQ,José Luis Castillo B,496,1057,1,1,2000,73,21,266
+MarcSNewman,Marc Newman,2204,425,0,1,295,24,8,107
+martindaniel4,Martin Daniel,1758,478,0,1,708,48,11,294
+iaveiga,Iván Aveiga,1585,31139,1,1,846,9784,15,523
+BNieme,Bob Nieme,1354,2084,1,1,496,21,27,464
+mouthorjoe,Joseph Kambourakis,1730,1073,0,1,166,125,11,95
+pvanimpe,Philippe Van Impe,1829,989,1,1,1908,83,6,763
+sidineyr,Sidiney Rodrigues,1468,5208,1,0,391,331,20,512
+EdNCES,NCES,675,288,0,1,20,0,98,2108
+CatapultWorks,CatapultWorks,986,187,1,1,1730,4,14,705
+martykemka,Marty Kemka,1682,565,0,1,663,173,18,333
+BDSS_PSU,BigDataSocialScience,779,71,0,1,85,0,13,148
+jgoldschrafe,Jeff Goldschrafe,1186,2058,1,1,338,240,6,121
+JaapFrolich,Jaap Frolich,1848,1548,0,1,807,86,14,273
+InquilineKea,Alex K. Chen,2031,194,1,1,236,151,6,111
+KYANYOGA,Gus Segura,1578,99,0,1,1380,3,13,535
+hemasail,Martin Hentschel,1405,3479,1,1,203,182,18,154
+chonour,Chandran Honour,2596,270,1,1,303,1,14,104
+StatFact,Stat Fact,1266,2323,1,1,14,53,1254,28670
+lusantala,Lucia Santamaria,1945,1472,1,1,363,0,13,215
+DELSAglobal,DELSA,786,303,1,1,152,4,12,105
+tplagge,Tom Plagge,1857,451,1,1,300,75,9,121
+bwtaylor,bwtaylor,2226,156,0,1,321,0,9,119
+cary_correia,Cary_Correia,43,44,1,1,44,7,2,20
+seekshreyas,Shreyas,850,487,1,1,392,165,11,130
+shoha99,SharonHsiao,1521,2929,1,1,488,119,19,260
+YonatanLerner,Yonatan Lerner,1811,71,0,1,150,22,15,109
+davidjohnwild,David Wild,1842,1267,0,1,134,5,12,254
+joelpulliam,Joel Pulliam,2208,435,1,1,227,6,11,163
+visualocean,Sage Lichtenwalner,863,463,0,1,210,15,13,111
+empiricator,empiricator,1391,1763,1,1,170,0,27,229
+prashantraju,Prashant Raju,1649,678,0,1,229,2,23,360
+ejstembler,Edward J. Stembler,2553,3170,1,1,516,193,33,191
+sagepost,Leslie Sage,1904,22,1,1,167,2,16,174
+halawiBahia,Bahia Halawi,1338,1452,1,1,697,204,11,557
+ignacio_elola,Ignacio Elola,810,1008,1,1,299,1309,24,221
+m_wakeman,Matthew Wakeman,2657,1049,1,1,137,11,13,221
+tallinzen,Tal Linzen,1849,385,0,1,164,77,3,135
+davidqwk,David Kim,1036,38,0,1,1419,0,10,1429
+carmeartigas,Carme Artigas,1798,268,0,1,149,4,20,376
+MJMcGuffin,Michael McGuffin,615,305,0,1,246,171,3,135
+nilsgrunwald,Nils Grunwald,1521,1998,0,1,244,63,27,205
+epireve,Firdaus Adib,1777,3777,1,1,608,77,21,588
+MindPrivacy,Mind Your Privacy,745,956,0,1,374,168,12,274
+ArturoSaCo,Arturo SánchezCorrea,1707,3021,1,1,382,463,6,209
+Hermelinda_Bixl,Hermelinda Bixler,915,8328,1,1,2009,0,6,1634
+stuhorsman,Stuart Horsman,1804,483,0,1,243,55,10,144
+padamopoulos,Panos Adamopoulos,1745,604,0,1,221,80,19,196
+DeborahMCooper,Deborah M Cooper,813,158,0,1,959,26,22,299
+eloysasot,eloy sasot,1183,724,1,1,170,28,19,242
+mohammad_sabah,Mohammad Sabah,1436,188,0,1,414,13,14,145
+BrighamHyde,Brigham Hyde,1795,468,1,1,191,2,4,188
+workerdrone,Daran Ferreira,2240,1349,1,1,659,167,20,229
+UCF_PlntSciGrp,Planetary Sciences,1486,28,1,1,1869,0,74,903
+EdiDataScience,CDT in Data Science,174,0,0,0,4,0,3,3
+yuvalariav,Yuval Ariav,1155,521,1,1,52,980,13,234
+natachapomorski,Natacha Pomorski,1600,414,1,1,506,102,16,286
+OCWdata,Open OCW data,1806,289,0,1,26,0,149,2697
+hamurcu_fatih,Fatih Hamurcu,346,389,0,1,1545,655,23,478
+Lordy99,Lordy99,1954,4175,1,1,502,23,22,246
+AgLikeSilver,Amanda,1580,3860,1,1,300,106,10,194
+moaimx,Irving Morales,1843,4332,1,1,816,136,10,310
+recruitertim,Tim Ahern,2016,1174,1,1,146,10,20,529
+teshager,teshager,2318,172,0,1,77,7,6,94
+ph_singer,Philipp Singer,1835,372,0,1,235,7,13,248
+KirkDBorne,Kirk Borne,783,22202,1,1,10339,28276,544,10847
+asiDataScience,asi,100,0,0,1,0,0,0,0
+SimaFore,BR Deshpande,1826,2177,1,1,320,8,31,361
+nikolasander,nikola sander,714,334,1,1,129,400,3,84
+rogerfernandezg,Roger Fernandez Guri,1326,182,1,1,166,1,17,164
+jchampsaur,José Champsaur,1765,118,0,1,234,2,5,116
+profdave,David Epstein,2052,34,0,1,254,1,18,125
+jidulberger,joshdulberger,2056,64,1,1,581,2,4,99
+BrianLehman,Brian Lehman,560,189,0,1,234,51,14,190
+ajay0221,Ajay Dubey,1645,269,1,1,401,0,1,205
+PhilippeTake2,Philippe Take,496,1030,0,1,840,2,19,569
+datailluminator,Peter Chen,919,627,0,1,683,3,13,253
+bcarancibia,Benjamin Arancibia,1118,478,1,1,396,80,3,138
+Capn_Sanjuro,Chad Metcalf,1067,568,1,1,570,174,14,167
+cesschneider,Cesar Schneider,2124,795,1,1,269,19,9,207
+pyduan,Paul Duan,368,130,1,1,120,43,4,362
+arutherfordium,Alex Rutherford,1551,673,1,1,475,74,14,127
+ankurt,Ankur Teredesai,1988,309,1,1,97,2,12,158
+fraser_newton,Fraser Newton,534,353,0,1,149,234,8,131
+g_ohmzy,WS AMEAMU,1713,2796,1,1,804,19,17,463
+cdChristinaDiaz,Christina Diaz,1971,1681,0,1,349,367,12,143
+ArthurFlam,Arthur Flam,404,983,1,1,389,541,19,219
+EugeneChuvyrov,Eugene Chuvyrov,1891,1064,1,1,275,135,25,193
+Brian_M_Wilcox,Brian Wilcox,1264,485,1,1,214,5,10,350
+greenjennifer,Jen Green,1778,293,1,1,61,16,14,143
+PietteJ,James Piette,1049,663,1,1,114,17,11,146
+jesusrenero,jesus renero,2606,1481,1,1,131,106,8,137
+i_recruit_you,Jennifer Mitchell,233,529,1,1,698,118,17,216
+cperry1848,chris perry,1790,568,0,1,473,3,7,132
+geoffrey_stoel,Geoffrey Stoel,2356,2281,1,1,424,13,9,240
+Infinite_Monkey,Mario Konschake,2230,1699,0,1,328,58,13,166
+swgoof,Ryan Swanstrom,1797,3549,1,1,347,179,57,851
+jshuang,黄 澗石 (Jianshi Huang),2028,686,1,1,210,36,21,185
+SarahSbratt,Sarah Bratt,851,1956,1,1,493,348,23,305
+dpsahoo,Durga Sahoo,2396,3351,1,1,708,24,15,304
+jpdig,Joe DiGrazia,1793,884,0,1,143,126,10,122
+salma_essalmani,Salma ES-Salmani,1615,1550,1,1,831,42,19,430
+pmigdal,Piotr Migdal,1188,287,0,1,314,8,18,177
+HEPfeickert,Matthew Feickert,1381,2520,1,1,352,693,16,162
+hajons,Håkan Jonsson,1948,446,1,1,245,58,17,147
+traviscj,Travis Johnson,2271,538,1,1,196,18,16,250
+robinpapa,Robin Papa,2607,573,1,1,167,10,5,93
+OpenSci,Open Science Info,1946,498,1,1,126,5,114,839
+pjam76,Peter J.,2564,3331,1,1,735,6,15,296
+quovo,Quovo ,1482,130,1,1,850,5,12,197
+relentless_1987,Jay Brophy,1784,140,0,1,1962,7,16,487
+wondros,Wondros,1810,9033,1,1,139,54,602,16296
+TarikMoon,Tarik Adnan Moon,1032,82,1,1,481,13,17,259
+Drema_Isle,Drema Isle,697,2,1,1,1795,0,11,522
+jonbma,Jon Ma,1876,60,0,1,474,4,3,237
+eurobeinat,eurobeinat,2338,144,1,1,146,6,8,185
+afh00d,Adam Hood,1479,1251,1,1,451,4,22,251
+jimpink,jimpink,2075,422,1,1,136,10,8,107
+dmkafel,Donna Kafel,1806,667,0,1,460,61,14,246
+NiallWharton,Niall Wharton,468,571,1,1,1375,38,21,361
+rodgersnotes,Rodger,1337,1863,1,1,564,8,16,164
+data_nerd,Carla Gentry,1533,117092,1,1,6467,2044,726,12467
+ISTC_BigData,ISTC for Big Data,638,712,1,1,627,2,84,1104
+vsabnani,Vikas Sabnani,2588,210,1,1,163,62,3,144
+tbertinmahieux,Thierry B-M,688,217,0,1,144,57,7,88
+marcelaldecoa,Marcel Castellani,1786,1023,1,1,227,4,7,201
+Mani_on_Twitt,Chandramani Tiwary,1592,2991,1,1,448,45,21,451
+shaulichaudhuri,Shauli Chaudhuri,1768,184,1,1,799,3,34,279
+BenSadeghi,Ben Sadeghi,431,710,0,1,310,50,11,195
+don_frank,Frank Dondelinger,1742,2985,1,1,105,3,15,108
+deniszh,Denis Zhdanov,2099,1723,0,1,740,29,10,375
+sastauth,Sean A Stauth,2119,122,0,1,128,4,14,129
+masao_classcat,Masashi Okumura,894,198,1,1,358,16,15,262
+hc27oclock,Hyunwoo Cho,1443,1345,0,1,436,19,17,269
+v_ianta,Stefan Ianta,591,259,0,1,1341,49,16,456
+YahiaElGamal,Yahia El Gamal,1281,631,1,1,483,26,14,272
+shrutsnladders,Shruti Saran,443,281,0,1,341,13,8,140
+patrickdsouza13,patrickdsouza13,2221,45,1,1,458,5,9,87
+bytebiscuit,Fatos Ismali,1172,2561,1,1,245,311,17,253
+vietansegan,Viet-An Nguyen,1911,170,0,1,245,0,10,189
+jkievit,Julian Kievit,2434,336,1,1,254,0,7,159
+Bianca_Bertke,Bianca Bertke,710,496,1,1,972,0,10,742
+PernodAngelus,PernodAngelus,524,15,1,1,526,1,19,431
+everysignal,EverySignal,821,39,1,1,1618,0,12,339
+complexsoc,Yunhwan Kim,1566,377,1,1,425,21,9,208
+FarmLinkUSA,FarmLinkUSA,100,259,1,1,328,132,6,175
+binniborgar,Binni Borgar,1211,454,1,1,370,79,16,238
+kempnowell,Craig Nowell,1845,505,1,1,208,27,2,168
+Dyan_Theurer,Dyan Theurer,701,1724,1,1,1807,0,7,1368
+nfomon,Mike Biggs,996,316,1,1,128,52,7,77
+guneetc79,guneetc79,1995,750,1,1,1136,440,5,408
+MayankMisra,Mayank,2207,3065,1,1,146,50,12,224
+DataSciMatters,Data Science Matters,414,12,0,0,6,0,4,4
+jahendler,jahendler,2139,14467,1,1,551,44,445,4332
+xingdatascience,Data Science @ XING,50,7,0,0,4,0,1,13
+dapperxcore,Chris Gadek,1165,787,0,1,114,9,9,167
+DataScienceSG,John Berns,637,7,0,0,65,0,8,15
+martinbodocky,Martin Bodocky,736,587,1,1,274,116,10,166
+keritoksu,Kerime B. Toksu,1650,531,0,1,108,1,3,87
+duane9,Duane Hilton,2159,618,1,1,330,33,6,142
+cesarr77,Cesar Rojas,1932,404,1,1,171,9,23,128
+shane_a_lynn,Shane Lynn,1202,241,1,1,442,40,8,239
+bhattisatish,Satish Bhat,2282,308,1,1,246,12,11,104
+benjaminmbrown,Benjamin M. Brown,2207,152,1,1,303,8,15,169
+prooffreader,David Taylor,1284,734,1,1,54,62,1,84
+Persontyle,PERSONTYLE,301,454,1,1,391,26,9,148
+animaloftheyear,Jin Chen,1633,438,0,1,170,28,12,72
+elenatej,Elena Grewal,1992,11,1,1,75,5,0,24
+allinanalytics1,All-In Analytics,111,428,1,1,611,1,9,269
+DataScienceUK,Data-Scientists,272,7,0,0,26,1,0,5
+Scenic_Verve,JDe Loatch,922,182,1,1,907,200,5,205
+satolone,Scott Tolone,932,405,1,1,173,16,12,120
+DooDuddy,DharmayuPurohit,1861,1280,1,1,309,6,11,276
+Krystyna_Byra,Krystyna _Byra,911,1,1,1,785,0,11,692
+KitschLich,Shandra,2057,28,1,1,66,8,1,44
+monkmanmh,Martin Monkman,1318,1525,1,1,491,84,3,104
+JHUDataScience,JHU Data Science,107,0,0,1,0,0,0,7
+arvi1000,★ A r v i,1856,266,1,1,420,20,1,108
+MetersRunning,Sue,1449,452,0,1,825,639,16,265
+EliFinkel,eli finkelshteyn,491,27,0,1,24,2,6,39
+colin_durant,Colin DuRant,614,872,0,1,907,1353,11,130
+pd73,Paul Allen,1918,900,0,1,333,412,13,168
+Huning,Frank Huning,1886,4449,1,1,530,249,15,345
+thoryn415,Thoryn Stephens,1850,537,1,1,113,2,1,127
+benhastings,Ben Hastings,2101,363,1,1,102,47,13,134
+bigEdata,Eric Williams,1385,30,0,1,258,1,8,122
+gonzamartind,Gonzalo Martín Díaz,1784,456,0,1,267,7,27,244
+QuietNotion,Ross Plotkin,1474,445,1,1,25,3,6,105
+PulseLabKampala,Pulse Lab Kampala,188,31,1,1,132,6,5,80
+drkjpayne,Kevin J. Payne,810,39,0,1,1309,0,12,220
+yorktsai,York Tsai,1864,163,0,1,115,1,9,108
+ImpactVI,Visualizing Impact,221,16,1,1,22,0,5,76
+click_amogh,Amogh Mundhekar,1475,1487,1,1,1177,77,11,285
+megi21,Megha Agarwal,1814,569,0,1,203,12,26,158
+Nan_Kaskey,Nan _Kaskey,913,214,1,1,1347,0,11,1130
+kenniajin,Ken Mwai,1403,3340,1,1,376,106,7,188
+Cangrade,Cangrade,1015,894,1,1,324,55,15,810
+pkr2011,Priya,1199,310,1,1,374,25,8,64
+dzidorius,Dzidas,1547,1026,0,1,142,2,15,219
+datagoodies,Rafferty,2204,11668,1,1,4038,9267,164,3679
+andrew_krueger,Andrew Krueger,1406,360,1,1,354,41,9,138
+vechaurij,Virgilio Echauri,1682,1184,1,1,187,96,21,155
+satyakaliki,Satya Kaliki,2332,768,1,1,542,4,18,237
+sindoc,Sina K. Heshmati,2360,805,1,1,129,18,7,133
+DMastroianni,Diego Mastroianni,1780,369,1,1,288,10,10,138
+LinkCycle,LinkCycle,1253,124,0,1,76,2534,21,278
+JeffGardner7,Jeffrey Gardner,1370,2477,1,1,207,162,5,169
+OIbloguk,Open Innovation Blog,265,118,1,1,323,6,12,149
+marcky_es,Marc,1937,3359,1,1,306,1023,23,290
+flowingdata,Nathan Yau,2258,8388,1,1,195,902,3668,40466
+edenscience,Eden Plant Science,787,506,1,1,365,41,23,961
+jakehofman,jake hofman,1952,1440,1,1,380,4480,328,3932
+iwschris,Chris Reynolds,2141,152,1,1,221,200,7,98
+alexstriffler,Alex Striffler,1066,203,0,1,772,2,16,228
+z0ne51,Olivier BERNHARD,1633,181,1,1,646,4,7,267
+rahayuni,Rahayuni Wasisarini,1755,1294,1,1,290,88,12,254
+mareck,Mark Curry,1978,266,1,1,57,3,12,81
+SoulFireMage,SoulFireMage,2440,1003,1,1,271,117,4,94
+epigos,Philip Adzanoukpe ,1854,266,1,1,184,24,1,77
+Hacktuarial,Timothy Sweetser,1574,627,0,1,314,15,10,99
+MLBrook,Michelle Brook,1595,22739,1,1,1578,1207,170,2843
+BayesBabe,rlp,1032,265,0,1,124,14,11,85
+henriknordmark,Henrik Nordmark,1831,720,1,1,385,3,16,215
+dasburmeister,tricia burmeister,1126,404,1,1,189,12,7,90
+Tyson_Trotter,Tyson Trotter,2043,1247,1,1,642,111,19,180
+rijitK,Arijit K,739,866,1,1,271,116,10,86
+TNCancerCo,TN Cancer Coalition,1501,989,0,1,52,0,16,129
+michaelsgold,Michael Gold,1013,55,0,1,30,0,5,35
+pmalik1,Piyush Malik,1769,363,1,1,161,61,15,169
+phypothesis,Alejandro Cajigal,1988,29,1,1,47,0,4,29
+jllopezpino,José Luis López Pino,1645,854,1,1,156,217,28,190
+PareidoliaX,Xander Miller,1714,911,1,1,401,140,17,146
+PeterTDarch,Peter Darch,220,67,0,1,235,2,4,76
+shaunmccarthy,Shaun McCarthy,1926,158,0,1,182,15,4,79
+taylorterry,Taylor Terry,1935,111,0,1,213,6,7,94
+janahang,Janahan Gnanachandra,1643,933,1,1,211,21,12,176
+Manish_808,Manish Sehgal,1729,546,1,1,72,6,5,135
+vasv,Vas Vasiliadis,2149,125,1,1,44,1,16,83
+andrewtpham,Andrew Pham,959,1187,1,1,624,16,10,118
+tomasaftalion,Tomas Aftalion,1789,996,1,1,174,69,7,124
+atelierhide,Hid,1564,5435,0,1,443,253,25,260
+carsondarling,Carson Darling,2235,122,1,1,69,12,9,92
+joony0402,홍석준,825,787,1,1,498,96,3,255
+LinXEric,Eric Lin,1627,126,0,1,110,6,8,60
+andyrtd,Andreas Ribbrock,1203,1496,0,1,191,107,8,134
+BlueWaterLabs,BlueWaterLabs,447,281,1,1,288,3,14,157
+missjuliezoe,Julie Zoe,1473,429,0,1,54,36,11,158
+baalsaheb,Ameek Singh,1577,2268,1,1,458,45,5,286
+addhyan_pandey,Addhyan Pandey,1196,105,0,1,45,0,5,100
+LarryASimon,Larry Simon,1503,407,0,1,309,0,13,154
+julien_cabot,Julien Cabot,1120,149,0,1,101,4,17,174
+minceamie,Angelina  ,1339,588,1,1,162,105,13,141
+philshem,Philip Shemella,617,390,1,1,317,105,10,126
+DataScienceHQ,DataScienceHQ,208,0,0,0,0,0,0,1
+joeymarkowitz,Joey Markowitz,1290,33,0,1,171,2,9,34
+mbnsolutions,MBN Solutions,1542,9432,1,1,550,25,21,441
+sharongai,Sharon Gai,1873,505,0,1,461,72,1,188
+dataintroclass,Data Science Intro,351,0,0,0,0,0,2,3
+analyticpeople,Analytical People,1714,50,0,1,134,0,12,143
+databowl,Data Science Bowl,237,0,0,0,5,0,2,1
+LuisDataScience,Luis Data Science,368,0,0,0,0,0,2,2
+DataScience5,Data Science,369,0,0,0,10,0,4,3
+yunjingxu,Yunjing Xu,1779,298,0,1,82,4,9,106
+ClassData,Data Science Class,370,0,0,0,10,0,4,2
+DataScienceProj,DataScienceProjects,368,0,0,0,0,0,0,1
+DataScienceStud,Data Science Student,372,3,0,0,7,0,4,2
+DataScienceTip,Data Science,1105,0,0,0,0,0,2,1
+RonaldChao05,Data_Science_Ronald,369,0,0,0,7,0,0,1
+Chi2DataScience,robert nolker,97,0,0,0,1,0,0,3
+TopDataScience,Top Data Science,125,0,0,1,19,0,2,4
+datasciencefact,Data Science,166,7,0,0,3,0,3,1
+DataScienceCour,Data Science Course,365,0,0,0,0,0,2,2
+datasciencemooc,data science mooc,365,0,0,0,0,0,2,1
+JoeDataScience,Joe Datta,369,0,0,0,0,0,0,1
+scienceofdata,Data Science,374,0,0,0,0,0,2,2
+CW_Data_Science,cw data science,13,0,0,0,1,0,0,1
+LrnDataScience,Carlos GG,376,26,0,0,5,0,0,2
+SciHealthData,Science Health Data,260,97,0,0,3,2,0,1
+chi_data,Data Science Chicago,462,0,0,0,1,0,2,2
+data_chicago,Data Science Chicago,462,0,0,0,6,0,2,2
+DataScienceGrp,Christian Straight,2093,0,1,0,1,0,0,3
+DataScienceBook,Nichole,131,0,0,0,15,0,0,3
+BioDataSci,Biomed Data Science,279,0,0,0,0,0,0,1
+DataScienceDan,Dan Conway,84,0,0,0,8,0,0,3
+dsDreamTeamBAH,Data Science,62,0,0,0,0,0,0,0
+DataScienceFun,David Bess,134,1,0,0,11,0,0,4
+data_chi,Data Science Chicago,462,0,0,0,7,0,2,1
+DataScienceClas,Data Science,372,0,0,0,0,0,2,1
+gs_data_sc,GS Data Science Acco,368,0,0,0,11,0,4,2
+BizDataScience,BizDataScience,779,0,0,0,13,0,0,4
+data_science_jv,James Vaughn,374,1,0,0,13,0,2,2
+DataScienceCorp,Emiurgic LLC,73,0,0,0,10,0,0,0
+DataScienceHckr,Data Science Hacker,412,0,0,0,0,0,2,1
+DataScience_SPM,Steven Melanson,7,0,0,0,13,0,1,3
+crowddatas,Crow Data Science,172,0,0,0,0,0,0,0
+BDSACADEMY,Big Data Science,6,0,0,0,10,0,0,0
+datascichi,Data Science Chicago,462,0,0,0,9,0,4,2
+DaviDataScience,DaviData,10,0,0,0,9,0,0,0
+DataScienceBlog,Data Science Blog,398,0,0,0,12,0,2,2
+DataScienceKing,Vin S,106,0,0,0,5,0,0,1
+data_science_fr,Data science,199,0,0,0,0,0,0,0
+simplydatasci,Simply Data Science,165,1,0,0,16,0,2,1
+Data4Science,Data4Science,42,5,0,0,22,21,0,3
+IBMBigDataHLS,IBM Big Data HLS,1396,876,0,1,193,15,80,787
+DataSciTweets,Data Science Tweets,88,6,0,0,13,0,0,3
+DataScienceDojo,Data Science Dojo,410,9,0,0,5,0,2,2
+Data_Science_Co,Data_Science_Course0,371,0,0,0,0,0,0,1
+KPMGDataScience,KPMG Data Science,173,0,0,0,1,0,3,0
+asad_data,Asad Data Science,367,0,0,0,7,0,4,4
+applieddatasci,Applied Data Science,260,0,0,0,13,0,2,2
+DataScienceAssi,D.K.,368,0,0,0,10,0,0,2
+Data_Science,YOUNG JOON CHA,1424,0,0,0,0,0,0,4
+datascimasters,Data Science Masters,274,0,0,0,0,0,2,2
+ALuchkovsky,Data Science ,366,3,0,0,5,0,2,3
+WaterDataScienc,Water Data Science,334,0,0,0,2,0,0,0
+DataScience42,EL_42,369,0,0,0,2,0,0,3
+DataScience4,Data Science,370,0,0,0,0,0,2,2
+datasciencetv,Data Science TV,10,0,0,1,0,0,0,0
+DataSciReview,Data Science Review,26,0,0,0,12,0,0,4
+JenDataScience1,Jen DataScience1,349,0,0,0,0,0,0,1
+DataScience_M13,Minh Pham,368,0,0,0,1,0,0,2
+DataScience3,Data Science,371,0,0,0,0,0,2,1
+qldatascience,QL Data Science,430,0,0,0,0,0,4,5
+suzymoat,Suzy Moat,1369,364,1,1,1959,186,37,1017
+4DataScience,Data Science,372,0,0,0,0,0,2,1
+Data_Science13,Samantha Taffner,373,0,0,0,0,0,0,3
+DataSciHackers,Data Science Hackers,412,0,0,0,1,0,2,2
+AAASBigData,AAAS Big Data,220,53,0,1,252,19,8,114
+NewDataMiner,Data Science,374,0,0,0,10,0,2,3
+DataSciencePeop,Data Science People,153,0,0,0,0,0,0,1
+DataScienceGeek,Juan V,191,0,0,0,0,0,0,0
+DataScience1791,Claire K Pater,367,2,0,0,11,0,0,2
+DataScienceGrid,DataScienceGrid,761,0,0,0,0,0,0,2
+DataScienceGuy,DSG,103,0,0,0,1,0,0,0
+DataScience01,Data Science,205,0,0,0,0,0,0,0
+chicago_data,Data Science Chicago,462,0,0,0,1,0,2,1
+DataScienceRetr,Daniel Schulz,368,0,0,0,0,0,0,2
+DataScienceNews,Data Science,371,0,0,0,11,0,4,4
+t_preis,Tobias Preis,1817,351,1,1,1998,7,43,985
+DataScienceLabo,Data Science Lab,13,0,0,1,0,0,0,0
+DataSciDegree,Data Science Degree,238,1,0,0,0,0,0,0
+data_sci_chi,Data Science Chicago,462,0,0,0,6,0,2,2
+vigyan4,Data Science ,375,0,0,0,0,0,2,1
+data_sci_101,data science,376,1,1,0,2,0,2,2
+datasciencebowl,Data Science Bowl,223,0,0,1,2,0,2,8
+ScienceDataSoft,SCIENCE DATA ,1617,0,0,0,1,0,0,2
+AMULETAnalytics,Daniel D. Gutierrez,1829,1544,1,1,147,109,47,440
+ucdata,UC DATA,1785,191,1,1,35,3,20,255
+NASA_GESDISC,GES DISC,1463,1547,1,1,179,45,250,4433
+bmossop,Brian Mossop,1917,8145,0,1,420,3,402,4970
+AndrewLampitt,Andrew Lampitt,1499,2173,0,1,663,4,98,1198
+MMiiina,Mina Doroud,1806,7078,1,1,823,8191,76,1144
+Gonnector,고영혁 (Dylan Ko),1717,43640,1,1,1990,469,1135,13225
+ICSU_WDS,World Data System,827,214,1,1,140,47,15,196
+jongos,Jon Gosier,2465,10093,1,1,1874,847,462,7268
+LSciNation,Life Science Nation,532,144,1,1,2000,153,16,615
+USGSwaterCA,CA Water | USGS,1264,729,1,1,589,67,98,2183
+DataSciencesNG,Data Sciences NG,196,5,0,1,21,0,0,5
+DataSciencesZA,DataSciencesCorp,321,11,0,1,3,0,0,7
+USGS_Kentucky,USGS Kentucky,1379,349,1,1,621,12,41,1433
+DataSciBorat,Data Science Borat,1,0,1,1,10,0,0,0
+ram,Ram Ravichandran,2032,423,0,1,523,177,132,4883
+SashaLaundy,Sasha Laundy,1191,8162,1,1,982,2410,228,4044
+sbucompsc,SBU-Computer Science,1177,510,0,1,228,12,7,367
+Data6m,Bayan Mashat ,1269,17307,1,1,614,1528,16,914
+ElegantScience,Elegant Science,1957,1756,1,1,233,5,39,414
+fruitionscience,Fruition Sciences,1253,191,0,1,97,9,11,159
+RDub2,Ralph Winters,2121,2171,1,1,941,9212,42,1004
+Joab_Jackson,Joab Jackson,1895,13105,1,1,3330,430,333,4981
+misslake,julie freeman,2339,3343,1,1,665,614,55,929
+JohnDCook,John D. Cook,2002,13575,1,1,658,2744,953,14269
+lifesciencedata,Life Sciences,1806,26272,1,1,1905,5,72,1817
+risksci,Risk Science Podcast,412,127,0,1,10,7,4,148
+Data_Jack,Data Jack,1771,14079,1,1,171,1021,45,491
+epiraces,epiraces,2326,4761,1,1,985,129,194,2074
+DecipherMyData,Decipher My Data,934,53,1,1,235,4,10,158
+bkeegan,Brian Keegan,2046,15855,1,1,851,551,205,2445
+emblebi,EMBL-EBI,1521,2694,1,1,428,828,320,8429
+GigaScience,GigaScience,1295,6510,1,1,2572,90,198,3234
+angelinaward,Angelina Ward,1921,8696,1,1,3125,16,415,6455
+jugander,Johan Ugander,1841,825,1,1,369,1178,41,657
+mxlearn,ML @ REDDIT,1399,3840,1,1,3341,4,256,3959
+AkshatRathi,Akki,2275,20394,1,1,883,1554,176,2598
+milkywayproj,Milky Way Project,1325,258,1,1,1513,0,147,2280
+TierneyODea,Tierney O'Dea,2618,3209,1,1,1794,1134,66,1821
+RetentionSci,Retention Science,810,1038,1,1,76,270,45,558
+HalahHelmy,Hala Helmy,1786,36593,1,1,280,1585,138,22552
+rOpenSci,rOpenSci,1025,2348,0,1,571,172,193,3321
+SimoleonSense,Miguel Barbosa ,2044,787,1,1,873,15,178,2772
+Schroedinger99,Mike Ward,1893,44776,1,1,787,392,80,1214
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+NextBio,NextBio,2024,524,1,1,677,2,211,3309
+markgerstein,Mark Gerstein,1235,2232,0,1,370,2,52,1369
+cindythroop,Cindy Throop,1888,7770,1,1,1877,231,207,2936
+ScienceOfCyclin,ScienceOfCycling Ita,851,752,0,1,195,6248,9,2669
+sensingrplanet,Sensing Our Planet,1750,57,1,1,123,0,54,717
+dunnhumby,dunnhumby,2233,2211,1,1,608,65,186,5577
+iassistdata,IASSIST DATA,1429,1026,1,1,69,36,61,732
+danjlurie,Dan Lurie,2718,9397,1,1,686,3917,45,926
+ICPSR,ICPSR,1856,570,1,1,116,1,148,1634
+conormyhrvold,Conor L. Myhrvold,1170,2670,1,1,949,179,44,775
+ReginaNuzzo,Regina Nuzzo,1403,558,1,1,1199,299,61,938
+dri_ireland,Digital Repository,602,2943,1,1,1308,190,69,1967
+scheidegger,Carlos Scheidegger,1808,6028,1,1,168,365,93,958
+g33kmate,Linet,1565,17034,1,1,34,125,51,1865
+mcdonald,Robert H. McDonald,2621,10314,1,1,1700,106,118,1920
+TableauDataNerd,Robert Morton,1552,353,0,1,322,141,70,685
+iedadata,IEDA Data,1003,31,0,1,27,1,6,68
+Data_Dreamer,Chris Vicente,1057,6113,1,1,1823,1545,9,1021
+ESIPFed,ESIP Federation,1281,2575,1,1,607,214,31,566
+Sp0on,Sara,2010,74631,1,1,2078,5215,259,3047
+gawbul,Steve Moss,1789,34043,1,1,2098,17715,141,2351
+LuckieAndCo,Luckie and Company,1858,2406,1,1,2046,46,199,3560
+xxnapoleonsolo,Neil Macdonald,2297,17591,1,1,1333,1596,90,1853
+sagoforth,Sarah Goforth,1905,1154,1,1,455,31,66,836
+The_Teun,Teun 1T4I,855,112,0,1,133,10,28,820
+NHDataSciGroup,NH DataSci Meetup,16,6,1,1,265,10,3,254
+jamesbrown06,Rugby Science,923,546,0,1,526,7,2,530
+FlyingBinary,FlyingBinary,1530,10831,1,1,1710,4040,229,2024
+codeas,Ivan Kutil,2284,4472,1,1,96,336,95,2376
+tkunau,Timothy Kunau,2261,4055,1,1,1789,36,43,687
+natureserve,NatureServe,1616,724,1,1,1127,22,102,1624
+andrewmccallum,andrewmccallum,1963,4,1,1,116,106,55,757
+QuantAnalytic,Quantum Analytics,509,62,1,1,371,0,23,477
+JasonFebery,Jason Febery,1738,25530,1,1,200,4587,95,3616
+GaelVaroquaux,Gael Varoquaux,980,1041,1,1,147,8,146,2034
+TrevorABranch,Trevor A. Branch,877,7655,1,1,535,2533,51,1100
+eScienceCenter,eScience Center (NL),1133,328,1,1,406,50,20,474
+KentonNgo,Kenton Ngo,2124,2758,1,1,984,40,57,1277
+Wowter,WoW!ter,2404,10883,1,1,927,697,137,1726
+RevolutionR,Revolution Analytics,1884,2910,1,1,65,250,481,7930
+ogrisel,Olivier Grisel,2083,6801,1,1,1126,231,567,6889
+DataScienceMgt,Data Science Manager,111,9,1,1,7,0,0,4
+ikeondata,Ike Okonkwo,1654,153,0,0,357,773,9,94
+EdwardTufte,Edward Tufte,1439,2306,1,1,605,44,2001,39591
+DonorScience,Lindsay Brown,919,394,0,1,456,2,18,311
+datascience111,Baburao Kamble,1643,31,1,1,226,0,1,105
+NateSilver538,Nate Silver,2087,8487,0,1,686,10,17857,707835
+datascience_at,DataScience Graz,912,32,1,1,11,0,5,45
+paulisci,Paul Fairie,1606,3511,1,1,785,1818,15,831
+LegalScience,Dazza Greenwood,270,47,0,1,80,8,4,73
+nathanmarz,Nathan Marz,1797,2785,0,1,263,59,636,10467
+NasimDataScienc,Nasim Farsi,363,1,0,0,146,0,0,10
+joshweissbock,Art Vandelay,1709,11021,1,1,268,839,34,569
+data2insight,data2insight LLC,1483,932,1,1,419,19,16,255
+MapDataSciences,MapDataSciences,2045,0,0,0,0,0,0,1
+SEMC_Data_Sci,SEMC Data Sciences,1225,0,0,0,0,0,0,0
+datasciencing,datascience.co.ke,182,54,0,1,12,4,1,33
+dflysci,Dragonfly Science,1080,255,1,1,463,15,5,156
+GlobalDataSci,Global Data Sciences,249,0,0,0,32,0,0,1
+DataSciencesCon,DataSciencesConsult,59,0,1,1,1,0,0,1
+changesciences,Change Sciences,1451,401,0,1,240,2,12,185
+RLangTip,One R Tip a Day,1103,864,1,1,11,2,550,12066
+data_oracle,Antonio Rivas,2292,2552,1,1,346,196,25,390
+SolvingBacon,Science of Bacon Inc,336,335,0,1,350,14,4,172
+scivm,Science VM,169,6,0,1,1666,0,4,160
+dtunkelang,Daniel Tunkelang,2093,11072,1,1,50,0,408,5519
+chenghlee,Cheng H. Lee,1316,7832,1,1,847,2714,39,391
+ClimateData,Weather Research ,1187,1202,1,1,27,0,3,62
+eDocSciences,eDocument Sciences,1864,6647,1,1,58,1,24,214
+denzil_correa,Denzil Correa,2146,15689,1,1,178,480,17,537
+M_T_Patterson,Mark Patterson,1592,1314,1,1,1930,92,44,782
+curiouscodes,CuriousCode,1566,1821,1,1,834,367,43,865
+lizzywilkins,Lizzy Wilkins,1245,802,1,1,349,263,16,372
+mphnyc,Michael Hiskey,1921,6622,1,1,584,418,78,1114
+Datasciencenet,Datascience.net,114,21,1,1,2,2,1,35
+adzebill,Mike Dickison,1912,12867,1,1,257,1075,98,1476
+AndreaWiggins,Andrea Wiggins,1489,2055,1,1,360,506,54,618
+cloudera,Cloudera,2079,3432,1,1,509,75,1456,41094
+gilgul,Gilad Lotan,2600,5624,1,1,2238,778,483,11768
+kara_woo,Kara Woo,763,7027,1,1,522,3813,38,604
+datasci_blogs,データ分析・統計・機械学習のRSS,113,1341,0,0,0,0,5,173
+athivvat,Athivvat™,1825,14537,1,1,389,193,69,1301
+DataconomyMedia,Dataconomy,105,1003,1,1,472,121,18,626
+Paleo_Bonegirl,Paleo Bonegirl,2194,7088,1,1,1791,5180,44,1034
+PBudBurst,Project BudBurst,938,1327,1,1,1435,223,50,913
+mathbabedotorg,Cathy O'Neil,989,1703,0,1,159,116,197,2778
+AngelisAndrea,Andrea De Angelis,928,689,1,1,652,187,3,124
+badnetworker,David Masad,967,2612,0,1,270,230,38,350
+iamzaki,Zaki Qayoumi,1697,11378,1,1,1997,2306,35,691
+treycausey,Trey Causey,1219,20501,1,1,675,920,185,2348

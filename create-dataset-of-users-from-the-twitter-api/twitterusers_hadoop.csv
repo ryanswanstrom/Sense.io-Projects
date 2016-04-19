@@ -1,0 +1,1000 @@
+handle,name,age,num_of_tweets,has_profile,has_pic,num_following,num_of_favorites,num_of_lists,num_of_followers
+cloudera,Cloudera,2079,3432,1,1,509,75,1456,41094
+hadoop,Apache Hadoop,1946,20,1,1,8,0,816,17577
+hortonworks,Hortonworks,1115,3022,1,1,276,9,700,53622
+tlipcon,Todd Lipcon,2036,3419,0,1,592,4,351,6998
+twitterhadoop,Hadoop @Twitter,476,112,0,1,18,9,86,3317
+acmurthy,Arun C Murthy,1830,5731,1,1,395,75,316,8287
+hadoopsummit,Hadoop Summit,1560,1203,1,1,16,1,176,8001
+HadoopNews,John Ching,1187,4415,1,1,191,0,369,5720
+mikeolson,Mike Olson,2632,5727,1,1,194,199,550,13420
+tom_e_white,Tom White,1867,723,0,1,200,79,213,4176
+esammer,Eric Sammer,2414,6984,1,1,369,265,260,5249
+kevinweil,Kevin Weil,2598,13117,1,1,2012,9276,1022,35611
+owen_omalley,Owen O'Malley,1884,655,1,1,357,60,134,2744
+mapr,MapR Technologies,2228,1484,1,1,4655,604,328,12507
+squarecog,Dmitriy Ryaboy,1799,5133,1,1,687,976,373,7118
+IBMbigdata,IBM big data,1156,18729,1,1,1615,334,1302,35906
+awadallah,Amr Awadallah,2341,1830,1,1,1435,435,357,9149
+gwenshap,Gwen (Chen) Shapira,2404,9590,1,1,1193,82,162,2669
+AvikonHadoop,Avik Dey,1268,736,1,1,112,2,74,1532
+josh_wills,Josh Wills,2208,7050,1,1,833,4285,271,5361
+analyticbridge,Big Data Science,2248,12535,1,1,1797,73,965,18828
+merv,Merv Adrian,2341,36100,1,1,735,10,947,13886
+cutting,Doug Cutting,2494,657,1,1,99,566,419,9799
+HadoopDaily,HadoopDaily,326,1485,0,1,57,0,12,470
+CassandraHadoop,Cassandra Hadoop,898,64,0,1,25,0,60,1305
+hackingdata,Jeff Hammerbacher,2083,2034,1,1,5377,38,984,15674
+Hadoop_Summit,Hadoop Summit 2012,841,85,1,1,16,0,16,398
+Love_Hadoop,Hadoop News,1840,484,0,1,7,0,66,1061
+hug_uk,Hadoop User Group UK,1233,227,1,1,120,1,27,740
+evanchooly,Justin Lee,2017,19178,1,1,516,4,64,957
+jeric14,eric baldeschwieler,1764,201,1,1,70,9,125,3469
+peteskomoroch,Peter Skomoroch,2227,12802,1,1,1298,5244,1199,17436
+IntelHadoop,Intel Hadoop,344,284,1,1,43,155,8,349
+HadoopSphere,HadoopSphere,665,279,1,1,27,15,9,262
+chihadoopusers,Chicago Hadoop Users,1334,81,1,1,34,0,17,325
+HadoopMagazine,Hadoop Magazine,155,144,0,1,978,20,7,272
+hadoop_info,hadoop情報,468,5394,0,1,1814,0,8,1571
+HadoopKorea,Hadoop Korea,1605,97,0,1,10,0,15,314
+asakusa_hadoop,Asakusa Framework,1170,210,1,1,40,3,25,305
+skr,Johan Oskarsson,2640,6729,1,1,708,4587,153,4643
+hadoopday,Hadoop Day,1406,6,0,1,5,0,9,154
+CloudHadoop,Kiran Kumar,889,146,1,0,1174,1,5,1257
+hadooparchbook,Hadoop Architectures,136,3,0,1,5,0,1,222
+larsgeorge,Lars George,1939,772,0,1,130,32,111,2477
+hadoopsummit09,Hadoop Summit 09,1834,12,0,1,1,0,16,159
+HenryR,Henry Robinson,2620,2612,1,1,477,136,180,2859
+mortardata,Mortar Data,1122,1989,1,1,298,22258,104,1608
+allthingshadoop,Joe Stein,1486,1909,1,1,687,167,181,2567
+techmilind,Milind Bhandarkar,1500,5096,0,1,377,198,110,1364
+HBase,HBase,1853,396,1,1,0,1,317,4874
+WANdisco,WANdisco,1955,3342,1,1,875,26,131,8126
+katsnelson,Leon Katsnelson,2521,4270,1,1,768,8,137,1580
+wattsteve,Steve Watt,2080,4028,1,1,1031,512,106,1467
+hadoopmemes,Hadoop Memes,81,75,0,1,173,3,4,105
+hadoopworld,Hadoop World,1684,0,0,1,2,0,2,201
+lozzd,Laurie Denness,2446,5060,1,1,208,1001,96,1816
+ddraj,Devaraj Das,1945,181,0,1,161,0,69,1312
+hadoopdc,Hadoop User Group DC,1680,28,0,0,12,0,18,245
+atm,Aaron T. Myers,1875,1791,1,1,385,8,59,1681
+HadoopWizard,HadoopWizard,504,366,1,1,99,0,7,198
+ParquetFormat,Parquet Format,400,85,0,1,17,5,21,749
+furukama,Benedikt Koehler,2570,27032,1,1,3459,1906,517,6335
+scalding,Scalding,866,602,1,1,74,108,105,2620
+posco,P. Oscar Boykin,2438,5957,1,1,631,4191,202,4409
+pbrane,Jake Mannix,2618,2054,1,1,506,203,164,3058
+planet_Hadoop,planet Hadoop,441,723,0,1,2,0,20,284
+jpatanooga,Josh Patterson,2178,10209,1,1,466,338,187,2439
+MDMGeek,Prash Chan,1818,19810,1,1,2329,967,234,3998
+griggheo,Grig Gheorghiu,1581,4220,0,1,1552,915,132,1721
+lynnlangit,Lynn Langit,2601,14116,1,1,377,136,367,3600
+HadoopMapReduce,Hadoop MapReduce,1186,0,0,1,0,0,8,250
+phunt,Patrick Hunt,2310,2815,0,1,163,32,175,2992
+attilacsordas,attilacsordas,2606,17467,1,1,459,111,343,3501
+datameer,Datameer,1571,5310,1,1,1160,254,307,5186
+inventiongirl,Amina Abdulla,1407,2740,1,1,499,238,69,1897
+costinl,Costin Leau,1727,1384,0,1,77,0,112,1896
+planetbigdata,Planet big data,1085,3412,0,1,4,0,92,1145
+dondrake,Don Drake,1948,3184,1,1,472,453,12,315
+hadoopIL,hadoopIL,1537,14,1,1,3,0,3,78
+WibiData,WibiData,968,616,1,1,851,13,91,2015
+HadoopAtlanta,Atlanta Hadoop Users,992,14,1,1,57,1,2,71
+otfrom,Bruce Durling,2114,28555,0,1,2134,592,171,2381
+darthgeek,Jeff,1983,8953,1,1,598,20,29,393
+vijayv,Vijay Venkatesh,2100,5625,1,1,1992,1279,54,1613
+hugfrance,HUG France,815,440,0,1,205,1,18,444
+Hadoop_quiz,hadoop_quiz,1282,394,0,1,490,0,16,229
+bcoverston,Ben Coverston,1857,400,0,1,392,9,25,499
+IntelHadoop1,Intel Hadoop (IDH),212,5,0,1,524,0,4,131
+gruset,Steen Kjøng Paulsen,1877,4411,1,1,37069,3881,651,44709
+criccomini,Chris Riccomini,1854,968,1,1,147,1,105,1437
+joecrobak,Joe Crobak,2211,1784,0,1,620,1696,63,1012
+dguyadeen,uǝǝpɐʎnɓ sıuǝp,1899,14153,1,1,1719,936,156,2098
+esteban,Esteban Gutierrez,2599,14623,1,1,2060,163,91,2125
+bdhadoopers,Boulder Hadoopers,1365,3,0,1,2,0,5,94
+HadoopCareer,Hadoop Career,154,114,0,1,352,1,1,106
+weicreative,weicreative,1360,1030,1,1,787,1,10,136
+johngoulah,John Goulah,1901,1280,1,1,469,268,39,811
+sqlfool,Michelle Ufford,2002,7678,1,1,248,11,229,2942
+jbgeorge,Joseph George,1956,3308,1,1,2026,110,115,1890
+drluckyspin,drluckyspin,2218,825,1,1,177,4,54,829
+HadoopA,حَكااَيههٓ ه قلبْ,157,1623,0,1,770,63,2,593
+rathboma,Matthew Rathbone,2158,2873,1,1,448,19,59,949
+sasata299,ささたつ(Tatsuya Sasaki),1893,32745,1,1,446,5932,300,3170
+RobertsPaige,Paige Roberts,1763,10411,1,1,784,1,206,3051
+hadoop_girl,Hadoop Girl,440,179,1,1,248,7,8,114
+joep,Joep R.,967,820,0,1,128,139,15,775
+TheDataChef,Jacob Perkins,1561,547,1,1,117,7,167,1503
+HadoopSherpa,David Chaiken,1540,1,0,1,4,1,1,32
+HadoopPGH,HadoopPGH,848,17,0,1,31,0,2,42
+andreisavu,Andrei Savu,2177,14656,1,1,7526,548,261,7025
+spatialhadoop,Spatial Hadoop,416,15,0,1,1,0,1,53
+nlhug,NL Hadoop User Group,789,3,0,1,24,0,5,50
+HadoopUserHelp,Hadoop User Help,106,18,1,1,217,0,0,55
+TM_Hadoop,TM Hadoop Group,1393,0,1,1,5,0,3,39
+HadoopIlluminat,Hadoop Illuminated,452,88,0,1,87,0,2,110
+HadoopTom,Thomas Lojko,336,61,0,1,214,1,1,94
+q_hadoop,Hadoop,1286,295,0,1,0,0,8,80
+bridgetkromhout,Bridget Kromhout,352,1440,0,1,338,1043,45,695
+hadoopturkiye,Hadoop Turkiye,156,31,0,1,91,2,4,71
+BIDOOP_HADOOP_i,BIDOOP International,715,461,1,1,41,2,5,62
+HadoopBR,HadoopBR ,1043,202,0,1,0,0,0,59
+Hadoop_feng,wangfenggang,1769,123,0,1,60,1,0,35
+cc_hadoop,Hadoop 海外情報,372,16,1,1,283,0,2,225
+HadoopTrainer,hadoop trainer,642,60,0,1,139,1,1,58
+HadoopElephant,Hadoop Elephant,429,3,0,1,16,0,0,13
+bigdatajoerossi,Big Data Joe,2243,1996,1,1,284,79,14,312
+HadoopPredicts,HadoopPredicts,458,2,0,1,5,0,0,25
+hadoopcasts,Hadoop Screencasts,378,6,0,1,0,0,0,38
+TweetHadoop,Barnett Zheng,1832,15,1,1,179,0,0,46
+isragaytan,Israel Gaytán,1983,12708,1,1,1726,711,59,1284
+HadoopJobs,HadoopJobs,384,0,0,1,9,0,1,39
+BlueBoxTraveler,Possibly Jakob Homan,1851,3336,1,1,671,498,65,997
+TheHadoopBlog,The Hadoop Blog,191,4,0,1,4,0,0,16
+sharad_ag,Sharad Agarwal,1812,511,1,1,322,15,42,806
+markginnebaugh,Mark Ginnebaugh,1919,4202,1,1,1484,11,141,1921
+hadoopistan,Hadoop Jobs,29,249,1,1,15,0,0,6
+HadoopMan,HadoopMan,821,0,0,1,36,0,0,29
+VirtualHadoop,Virtual Hadoop,447,33,0,1,26,1,0,36
+HPAppsystem,Hadoop_AppSystem,366,34,0,1,56,1,0,22
+HadoopIsrael,Hadoop Israel,1262,0,0,1,0,0,2,21
+DadiCharles,DADI Charles-Abner,664,3405,0,1,805,319,29,1019
+HadoopNet,HadoopNet,656,126,0,1,54,0,0,36
+TimIntel,Tim R Allen,814,1608,1,1,2150,46,85,2257
+EvaAndreasson,Eva Andreasson,897,2076,1,1,300,817,35,738
+Nelitza,Nelitza,1853,1904,1,1,350,1,35,500
+DaviddeBoer,David de Boer,2567,4933,1,1,766,2798,54,1376
+stevenn,Steven Noels,2584,4965,1,1,848,14,99,1265
+gregbayer,Greg Bayer,1981,2735,1,1,526,176,58,630
+RafaelKnuth,Rafael Knuth,1351,6288,0,1,58,18,40,526
+SQLforHadoop,SQL for Hadoop,364,3,0,1,11,0,0,16
+ConanHadoop,Conan Hadoop,522,2,0,0,11,0,0,18
+ronbodkin,Ron Bodkin,1980,300,1,1,173,0,64,838
+ClouderaU,Cloudera University,1087,780,0,1,1412,1,128,2893
+joshdsullivan,Josh Sullivan,2007,680,1,1,283,5,59,2279
+marcholmes,Marc Holmes,2347,5014,0,1,554,12,66,874
+hadoopdirectory,The Hadoop Directory,1568,1280,0,0,0,0,2,59
+StefanGroschupf,Stefan Groschupf,804,1746,1,1,449,45,60,914
+grep_alex,Alex Holmes,2585,319,1,1,175,21,22,402
+oza_x86,oza,2186,38233,0,1,912,7869,197,1650
+TIQView,Ralf Becher,1865,3902,1,1,1996,78,73,1618
+HadoopNight,Hadoop Night,897,2,0,1,0,0,1,15
+drianhowells,drianhowells,2165,965,1,1,659,3,85,895
+GungorPolatkan,Gungor Polatkan,949,829,1,1,564,290,32,765
+SQLCindy,Cindy Gross (SQL),1263,1294,1,1,2246,25,171,2790
+Hadoop_Biruni,Mohamed Ghareeb,30,1,0,1,91,0,0,5
+HadoopWrangler,Hadoop Wrangler,339,30,0,1,8,0,0,7
+HireMobHadoop,HireMob Hadoop,240,97,0,1,0,0,0,5
+hadoop007,julian,296,2,0,1,21,0,0,6
+TanelPoder,Tanel Poder,1913,3292,1,1,126,168,131,3186
+antoineguiral,Antoine Guiral,2317,22015,1,1,420,837,78,914
+RideImpala,Cloudera Impala,153,153,1,1,1,0,21,533
+Susan__OBrien,Susan O'Brien,2240,4073,1,1,515,190,34,681
+pepperdata,Pepperdata,563,78,1,1,102,13,5,62
+hadoopresearch,Hadoop Research,100,1,0,0,0,0,0,5
+hamadakoichi,"濱田晃一, Ph.D.",1841,5352,1,1,905,1031,336,3121
+nattyice,Jonathan Natkins,1890,2316,1,1,212,107,34,646
+hornpolish,Paul Kent,1932,802,0,1,2000,9,95,1544
+renatco,Renat Khasanshyn,1538,335,1,1,49,1511,24,405
+cgerth,Charles Gerth,2092,2270,1,1,1361,19,32,1388
+DataRush,Pervasive DataRush,1773,2445,1,1,1061,1,124,1333
+enissoz,enissoz,2065,453,1,1,238,4,7,383
+rrherr,Ryan Herr,1324,2379,0,1,350,2889,7,192
+8maki,8maki,2592,6842,1,1,711,234,143,1591
+mapastr,Mario Pastorelli,1227,1509,0,1,385,244,14,151
+miguno,Michael G. Noll,1773,299,1,1,34,4,47,1104
+prokopp,Christian Prokopp,1802,1176,1,1,473,112,75,927
+d4rr3ll,Darrell Taylor,2729,1210,1,1,417,44,7,265
+PavlikGreg,Greg Pavlik,811,522,0,1,97,5,17,295
+tomassino,Tomislav Zorc,2241,1752,0,1,514,357,24,329
+HadoopNinjas,Hadoop Ninjas,744,0,0,1,6,0,0,9
+bigdata_hadoop,bigdata_hadoop,411,17,0,1,13,1,1,20
+hadoop2k3,hadoop,276,3,0,1,0,0,0,5
+Hadoopist,All things Hadoop,368,2,0,1,11,0,0,12
+databuryat,Vadim Semenov,1733,28299,1,1,339,1569,52,588
+HadoopSO,HadoopSO,431,1010,1,1,0,0,0,22
+hadoop_guy,Pradeep Singh,268,1,0,1,16,0,0,3
+hadoop69,abdulla hadoob,516,3,0,1,49,5,0,26
+pangool_hadoop,Pangool,490,6,0,1,6,0,0,22
+Hadoop444,Hadoop,181,1,0,1,20,0,0,14
+HadoopOnline3,Hadoop Online,256,1,0,1,3,0,0,4
+RameshHadoop,ramesh,64,1,0,1,55,0,0,3
+HadoopInfo,Hadoop Bangalore,256,8,0,1,3,0,0,9
+TechnologicDesk,Emmanuel Joliet,1914,3281,1,1,700,455,12,218
+LoriNelsonKing,Lori Nelson-King,2256,1483,1,1,1578,36,69,1615
+vrushalivc,Vrushali C,1546,1567,1,1,541,377,7,367
+0xD1,Israel Zúñiga,2437,15013,1,1,1987,208,60,1435
+iwrigley,Ian Wrigley,1892,1592,1,1,504,28,18,466
+mahadevkonar,mahadev konar,1291,1109,0,1,171,1,43,845
+sDataManagement,SearchDataManagement,1766,2174,1,1,449,2,127,1817
+okachimachiorz1,脂肪分解酵素を活性化させる御徒町,1391,8574,1,1,2865,8,295,3663
+pieteradejong,Pieter de Jong,2488,325,1,1,434,841,7,368
+Tshooter,Vinod Vavilapalli,2580,3433,1,1,480,267,38,991
+gridgain,GridGain Systems,1366,4721,0,1,436,532,89,1178
+narwhalconsult,Narwhal Consulting,1867,43,1,1,2395,0,39,1415
+Syncsort,Syncsort,1532,3853,1,1,1513,255,83,1341
+sfchaos,sfchaos,1419,2287,0,1,339,444,87,766
+josephmisiti,joseph misiti,1760,4002,1,1,246,13866,74,1422
+okachimachiorz,御徒町 @リフトの下りにはリフト券が必要,1664,29959,0,1,1970,44,202,1930
+mhgoodell,Marie Goodell,1415,671,0,1,822,3,61,775
+elliottnclark,Elliott Clark,1800,142,1,1,182,4,9,198
+jhclark_lti,Jonathan Clark,1877,814,0,1,163,260,10,306
+adambloom,adam bloom,1923,731,1,1,2001,103,18,628
+actsasflinn,actsasflinn,2084,2078,1,1,252,96,20,163
+aminbandeali,Amin Bandeali,2043,3860,1,1,44,1,33,1046
+FastBigData,Mark Wall,1933,1276,1,1,653,511,42,2113
+tgibbs,Tanton Gibbs,2586,1487,1,1,526,18,23,427
+suresh_m_s,Suresh Srinivas,2162,721,0,1,136,17,19,445
+soafaq,OpenMediation,1573,20434,1,1,97,162,91,807
+carbone,Cedric Carbone ,2223,1385,0,1,1932,47,77,1585
+mwinkle,Matt Winkler,2579,3755,1,1,459,107,53,887
+JADOo5567,Hadoop ,617,0,0,1,12,0,0,9
+Anil15hadoop,Anil,188,3,0,1,35,0,0,5
+icme_hadoop1,icme-hadoop1,617,0,0,1,0,0,0,8
+hadooplog,Hadoop Commit Log,1036,10,0,1,0,0,0,12
+pflaumeneintopf,Rene Hadoop Geek,1428,1,0,1,2,0,0,10
+JoinHadoopTeam,Join Our Hadoop Team,69,3,0,1,10,0,0,2
+Hadoopplus,Hadoop +,275,2,0,1,5,0,0,3
+brandynwhite,Brandyn White,2094,799,1,1,186,74,30,512
+SocialTrep,Mike Hurley,1027,4157,1,1,2241,632,27,1668
+jaymce,Jim Walker,2447,1381,1,1,437,3,42,718
+Altiscale,Altiscale,346,319,1,1,513,50,7,269
+PhillyHUG,Philly Hadoop,1704,0,0,0,1,0,4,27
+hailter,Hakan İlter,775,4157,1,1,383,207,13,465
+davidmcj,David McJannet,1708,290,0,1,32,9,3,111
+Karmasphere,Karmasphere,1646,45,1,1,5,1,92,955
+kkrugler,Ken Krugler,1778,125,1,1,35,0,61,522
+MikeHSays,Mike Hoskins,1156,798,0,1,1268,0,82,1527
+sumitkm,Sumit Maitra,1854,14914,1,1,1269,1500,63,1034
+Xorlev,Michael Rose,1954,2977,1,1,495,171,23,622
+raveldata,Ravel,1207,72,1,1,168,0,36,234
+nemoton,Naoki Nemoto,1762,40266,1,1,1153,18655,97,1156
+yutuki_r,豊月,2071,73067,1,1,353,49,157,863
+ArnaultJeanson,Arnault Jeanson,1437,1306,0,1,504,55,21,447
+avkashchauhan,Avkash Chauhan,1285,2388,1,1,198,103,62,513
+KijiProject,Kiji Project,548,220,0,1,696,1,25,418
+sr_mueller,Stefan Müller,800,665,1,1,1233,25,37,1047
+donaldpminer,Donald Miner,967,987,1,1,339,15,24,436
+richardm_,Richard McCreadie,1911,522,0,1,110,3,32,304
+sztanko,Dimi,2193,2016,1,1,373,148,10,310
+immap99,immap,1184,124,0,1,209,1,11,1517
+Hadoop_News,HadoopNews,250,344,1,1,1,0,0,23
+Rainstor,RainStor,1869,1260,1,1,984,38,59,3603
+timmsc,Sean Timm,1995,373,1,1,244,4,15,216
+hadoopRox,jeremy cunningham,953,13,0,1,13,1,0,6
+Hyper_Hadoop,붕어,385,3,0,1,0,0,0,2
+hadoop_123,hadoop_123,452,5,0,1,6,0,0,10
+HadoopMaestro,Hadoop Maestro,766,0,0,0,13,0,0,6
+hadoop_experts,Mike Watson,8,2,0,1,5,0,0,1
+Hadoop_HK,info,378,0,0,1,10,0,0,4
+HadoopLogic,Hadoop Logic,491,0,0,1,3,0,0,9
+HadoopRecruiter,Hadoop Recruiter,830,0,0,1,0,0,1,12
+bigindians,Indian Hadoopers,826,0,0,1,16,0,1,13
+HadoopForFun,Hadoop For Fun,720,6,1,1,6,0,0,8
+TT_Hadoop,TweetedTimes: Hadoop,1157,285,0,1,0,0,0,12
+onHadoop,onHadoop,703,0,0,1,0,0,0,6
+HadoopCloud,Hadoop Cloud,899,14,0,1,10,0,0,23
+BigDataHadoop,BigDataHadoop,940,6,0,1,9,0,2,22
+KYH0314,KYH,1429,2,1,1,10054,4,72,10979
+akiatoji,akiatoji,2187,14175,1,1,92,273,64,422
+sunny_Hadoop,sunny,84,0,0,0,10,0,0,3
+vincdhhadoop,vincdh hadoop,87,0,0,0,4,0,0,0
+6nop,Doug Balog,1310,372,1,1,754,114,15,187
+zaloni,zaloni,2036,85,1,1,448,6,17,273
+emiliosuarez,Emilio Suarez,2232,3311,1,1,1034,16,25,428
+fbru02,Federico Brubacher,2085,1069,0,1,577,57,42,445
+jazzyslide,Hideya Kato,2560,7405,1,1,733,15,116,1149
+javadance,Andy Park,2237,6637,1,1,1070,2666,51,1063
+mdellabitta,Michael Della Bitta,1779,2123,1,1,422,36,10,225
+rejohnson,Rob Johnson,2239,2241,1,1,497,159,14,223
+benjenkinsiv,Ben Jenkins,1853,784,1,1,1156,4,27,1124
+Aggress,Richard Shaw,2058,1943,1,1,352,160,11,213
+InfiniDB,InfiniDB,1674,413,1,1,502,15,60,808
+rawar,Ramon Wartala,2392,1562,1,1,338,30,18,173
+hmuehlburger,Herbert Mühlburger,1706,4080,0,1,1041,26,37,478
+cominvent,Cominvent AS,2207,697,1,1,574,15,21,426
+Altoros,Altoros,1560,802,1,1,1000,13392,42,1008
+AlpineDataLabs,Alpine Data Labs,1114,937,1,1,397,55,72,696
+rkmudigonda,Ravi Mudigonda,1491,1451,1,1,1987,7,16,1212
+adragomir,Andrei Dragomir,2623,660,1,1,432,182,24,364
+davidrichards,David Richards,2350,2437,1,1,112,168,31,3762
+wyukawa,wyukawa,2254,22359,0,1,596,1208,105,1157
+EndreJofoldi,Endre Jofoldi,1886,1236,0,1,459,6,56,490
+Hortonworks_U,Hortonworks_U,862,267,1,1,55,3,26,760
+abhishek85gupta,Abhishek Gupta,1899,42,0,1,67,0,17,242
+BasicsHadoop,BasicsHadoop,104,7,0,1,15,0,0,6
+hadoop180,伍哲沂,395,0,0,1,22,1,0,4
+HadoopDog,HadoopDog,421,42,0,1,4,0,0,10
+HadoopDemo,Hadoop Demo,574,0,0,1,0,0,0,7
+HadoopExpert,HadoopExpert,840,12,0,1,37,0,0,16
+HadoopCamp,Gabriel Diaz,80,1,0,1,10,0,0,0
+bigdatacamp,BigDataCamp,1444,283,1,1,37,0,46,630
+kkuehl,Kirby Kuehl,2165,1081,1,1,274,11,18,285
+sqlornot,Marcelo ROCHA,2143,465,1,1,406,11,10,160
+sireb,Simon Elliston Ball,1887,2042,0,1,924,21,30,554
+romainrigaux,Romain Rigaux,1657,231,0,1,120,1,11,191
+bangucs,Mitsuo Hangai,1820,5553,1,1,924,16,35,723
+HadoopHive,BigData,1045,1,0,0,27,0,6,92
+iamtourmalet,Jason H.,1786,5827,1,1,968,1716,17,391
+ClouderaConnect,Cloudera Connect,843,444,1,1,14,0,12,433
+ferdous,Nurul Ferdous,2006,1827,1,1,358,247,39,1150
+coyled,"Coyle, D",1816,217,1,1,196,5,18,218
+hamaken,Kenichiro HAMANO,2185,4987,0,1,247,149,106,959
+sugimori,SUGIMORI (杉森 隆行),2294,18086,1,1,980,816,56,748
+michio009,みっちぃー,1741,3250,1,1,2484,1260,167,2272
+ashutoshchauhan,Ashutosh Chauhan,2194,73,0,1,428,3,9,221
+justinwhancock,Justin Hancock,1290,571,0,1,116,112,6,154
+torajirohadoop,Torajiro Hadoop,1313,63,0,0,83,1,3,55
+sidudun,Arif N,1915,12003,1,1,515,144,41,586
+zllak,Thomas Meson,1238,381,0,1,418,34,13,218
+shige10,Atsushi SHIGETA,1702,3356,0,1,514,2,48,537
+macjacktw,macjacktw,2143,676,1,1,1999,1300,11,375
+BDAnalyticsnews,bigdataanalyticsnews,253,273,0,1,1994,0,28,908
+ofirm,Ofir Manor,1865,621,0,1,108,65,9,185
+korinreid,Korin Reid,1709,14552,1,1,1363,1203,9,549
+singhhadoop,singh_hadoop,613,179,0,1,1,2,0,6
+hadoop90,邊荒俠客,337,6,0,1,10,0,1,2
+hadoopor,hadoop,390,1,0,1,12,0,0,7
+NoHadoop,NoHadoop,1276,0,0,1,4,0,0,10
+littel_hadoop,littel_hadoop,1648,0,0,0,0,0,1,14
+ShitHadooperSay,ShitHadooperSays,363,0,0,1,5,0,0,2
+accure_hadoop,Accure Pvt Ltd,351,76,0,1,20,0,1,12
+hadoopJava,java,367,0,0,1,11,0,0,4
+hadoop2,lahneh-kafe,672,0,0,1,0,0,0,4
+hsteph,Stéphane Heckel,2121,2573,1,1,788,1102,46,756
+gymward,Jim Ward,581,118,1,1,331,14,10,155
+myagiledata,AgileDataWarehousing,702,1313,1,1,1982,28,43,1406
+deinspanjer,Daniel Einspanjer,2050,629,1,1,153,3,46,319
+tresata,tresata,1142,673,1,1,168,71,29,427
+kkawamura,Keisuke Kawamura,2575,17565,1,1,779,1169,146,1281
+DBA_J,Jason Williams,1163,1577,0,1,1998,0,42,724
+paulborgermans,Paul Borgermans,2228,588,1,1,381,0,72,576
+N2InformaticsRN,Charles Boicey,1839,1140,1,1,259,9,25,491
+jpkoenig,jpkoenig,2177,2027,1,1,267,63,26,418
+HadoopT,Hadoop Tutor,244,2,0,1,23,0,0,6
+Hadoop_Training,Anik Waikar,709,491,1,1,15,0,0,27
+kapoorsunny,Abhishek Kapoor,1736,19523,1,1,230,175,34,694
+christianbeil,Christian Beil,1830,1306,0,1,1162,167,15,288
+kojinoguchi,Koji Noguchi,1781,5,0,1,138,62,3,136
+santoshrau,Santosh Rau,1711,615,1,1,125,67,15,201
+dataminelab,DataMine Lab,1289,57,1,1,505,2,54,758
+HadoopLang,Jianwen Lang,183,0,0,0,15,3,0,4
+joealex,Joe Alex,1989,327,1,1,201,1,29,237
+splicemachine,Splice Machine,577,417,1,1,682,2,29,403
+morozumi_h,"MOROZUMI,Hiroyuki",1677,14380,1,1,1473,1047,59,952
+HUGPhilly,Hadoop Users Group,1704,0,0,0,0,0,2,29
+charmalloc,Joe Stein,1786,269,1,1,42,2,5,94
+Thenirajpandey,Niraj Pandey #HDL,1540,6798,1,1,353,1960,6,516
+lucmichalski,Luc Michalski,884,12882,1,1,1235,3,19,429
+davidinbar,davidinbar,2120,515,1,1,773,0,40,523
+ya_kenzou,Kenzou Yamada,1733,6428,0,1,1929,4349,42,995
+shun0102,三上俊輔,2013,4224,1,1,813,1276,123,988
+gethue,Hue Team,471,706,1,1,507,18,15,516
+avalonalex,Yuhan Hao,1886,6148,1,1,280,1984,30,586
+JamesMorle,James Morle,1887,1043,0,1,132,13,48,1059
+bklalor,Brian Lalor,2208,1345,1,1,1702,59,31,610
+JethroData,Eli Singer,576,126,0,1,851,9,16,260
+Zettaset,Zettaset,1490,819,1,1,438,32,30,414
+comsysto,comSysto GmbH,1357,758,1,1,321,110,21,316
+mubarakseyed,Mubarak Seyed,1844,382,1,1,889,4,10,193
+Brad2435150,Brad Severtson,1926,49,1,1,222,0,1,99
+don9z,Chris Zheng,1881,16687,1,1,319,60,36,886
+dkfj,プログラマになりたい,1913,5233,0,1,374,50,56,901
+RajeevTrikha,Rajeev Trikha,1988,778,1,1,551,2,6,241
+RolandThaler,Roland Thaler,1430,2271,1,1,567,701,27,529
+sawjd22,Subash D'Souza,1728,7032,1,1,361,4,25,558
+hadoopcanada,hadoop canada,1173,2,0,1,6,0,1,15
+krisgeus,Kris Geusebroek,1731,1102,1,1,361,8,38,322
+apachehadoop,Apache Hadoop,1377,37,0,0,0,0,0,44
+amazedsaint,Anoop Madhusudanan,2098,9691,1,1,3129,598,254,3420
+tstechly,Tomasz Stechly,2036,266,0,1,318,382,18,214
+kitora_naoki,"Kitora, Naoki",1794,2184,0,1,489,32,22,354
+robdielemans,Rob Dielemans,2220,956,1,1,323,17,21,310
+XebiaUniversity,Xebia University,847,1085,1,1,1998,1,34,758
+MapR_EMEA,MapR EMEA,472,254,1,1,19,1,11,165
+pateljay3001,Jay Patel,2192,80,1,1,84,0,7,180
+Do_ravensbergen,Dominique Ravensberg,1472,102,1,1,1101,0,7,833
+PrattShane,Shane Pratt,1774,1916,1,1,627,6,22,437
+shezgone,용스,1380,3726,0,1,2135,3,10,2183
+nimbusgo,Nimbus Goehausen,1501,742,1,1,149,90,5,79
+serverinfo,serverinfo,1510,922,1,1,1901,18,84,1227
+shawndolley,Shawn Dolley,1680,468,0,1,157,6,22,223
+Norrisjack,Jack Norris,1876,57,0,1,31,1,22,192
+noiano,Marco Didonna,1772,3414,1,1,777,647,24,253
+t_gra,Alexey Tigarev,1927,640,1,1,348,210,12,355
+mkbubba,Manish Katyal,1483,804,1,1,291,74,20,282
+quarterkota,Kotaro Tsukui,1793,7001,1,1,993,345,68,866
+migrate2cloud,migrate2cloud,1875,1142,1,1,1990,1,54,781
+MarkSlusar,Mark Slusar,961,418,0,1,615,32,10,273
+markcusack,Mark Cusack,1901,330,0,1,92,5,4,127
+takemikamin,みかにゃん♪,1546,50415,0,1,1080,5498,68,1268
+eandrejko,eandrejko,2042,60,1,1,210,8,20,133
+ehrlichja,Andrew Ehrlich,2619,804,1,1,266,52,11,168
+BigDataU,Big Data University,1021,22,0,1,7,0,50,876
+ofermend,Ofer Mendelevitch,1602,123,1,1,418,18,13,183
+ryu_kobayashi,Ryu Kobayashi,1788,21488,0,1,234,53,129,851
+SaschaDittmann,Sascha Dittmann ☁,1630,3782,1,1,414,3,31,527
+linklabs,ǝɔuǝnʃɟʞuıʃ,1168,311,1,1,169,0,13,180
+Pe_D,Peter Dickten,2237,3179,1,1,680,77,25,343
+hadoopisgreat,hadoop,1661,0,0,0,10,0,1,20
+BigDataSG,BigDataSG,873,115,0,1,114,0,23,394
+CliveWhit,Clive Whittaker,1030,529,1,1,995,42,8,352
+SQLJon,Jon Bloom,1309,2861,1,1,367,56,31,396
+markkerzner,Mark Kerzner,2227,1380,0,1,93,1,19,240
+CloudAtCMU,CloudComputing@CMU,1795,24,1,1,10,0,19,257
+choas,Lars Gregori,2236,1555,1,1,153,21,17,135
+miladcerkic,Milad Čerkić,2191,986,1,1,313,3064,12,230
+sowe,Rafael Valenzuela ,1914,12176,1,1,672,830,15,213
+xplenty,Xplenty,676,373,1,1,71,3,23,162
+cinequant,Cinequant,1153,159,0,1,453,2,10,264
+EnterpriseIQ,EnterpriseIQ ,1529,390,1,1,460,5,19,360
+Insidedctm,Robin East,1508,1248,1,1,380,22,35,323
+JulianHi,JulianHi,946,1090,0,1,493,446,15,512
+marcuspoehls,Marcus Pöhls,1385,3244,1,1,738,442,11,184
+jcsears,Justin Sears,1812,841,0,1,173,170,11,137
+UmaMaheswaraG,Uma Maheswara Rao G,1007,54,0,1,152,1,2,103
+JohnM_Haddad,John Haddad,1704,391,0,1,216,2,20,285
+lespider,B Chen,966,1469,0,1,637,25,31,881
+ramyasunil,Ramya Sunil,1476,232,0,1,81,5,16,647
+noddy_uk,James Grant,1758,184,1,1,93,1,8,160
+moniquesherman,Monique Sherman,2121,136,1,1,268,0,17,117
+billglennon,Bill Glennon,1313,282,1,1,623,64,10,152
+_nipra,Nikhil Prabhakar,1365,4779,1,1,989,431,21,234
+eissonnie,mark meissonnier,1846,285,1,1,354,1,9,157
+jsswope,Jeff ,1925,9541,1,1,2001,6781,32,964
+tim_kc_ng,tim ng,1793,3838,1,1,837,74,12,575
+mkataigi,makoto kataigi,2531,9206,1,1,216,1200,57,513
+GoDataDriven,Go Data Driven,432,18,1,1,7,0,7,90
+ohshazbot,John Vines,2186,6248,1,1,171,64,22,262
+ravensnowbird,Vivek,1696,12768,1,1,322,2758,19,476
+Haha_Dad,Taeyoung Lim,1925,830,1,1,818,701,27,478
+KaiWaehner,Kai Wähner,1298,3979,1,1,67,46,35,614
+heboyme,he boy me,1042,27105,1,1,551,1152,10,3999
+orawiss,Wissem El Khlifi,1206,2581,0,1,194,141,35,495
+JCMackin,JC Mackin,2290,749,1,1,1028,18,17,396
+tamtam180,たむたむ,2380,26541,1,1,309,241,72,693
+pkarya,Pamela Arya,1753,88,0,1,241,28,6,112
+RobinVerl,Robin Verlangen,1443,1825,1,1,1045,6,22,454
+Calpont,Calpont,1858,608,1,1,325,1,35,426
+datatorrent,DataTorrent Inc.,436,80,0,1,44,4,13,146
+mikuriya,御厨 寛人,2561,2084,1,1,96,25,30,471
+tlrx,Tanguy Leroux,1319,821,1,1,308,60,13,303
+kernel023,Tatsuo Kawasαki,1408,6130,0,1,328,391,67,651
+Scott_Armstrong,Scott Armstrong,1920,1022,0,1,359,13,6,179
+stefbauer,Stefan Bauer,1840,1503,1,1,408,13,33,424
+pramodbiligiri,Pramod Biligiri,2349,1754,0,1,109,223,9,128
+deniszh,Denis Zhdanov,2099,1723,0,1,740,29,10,375
+rogermathis,Roger Mathis,1919,1344,1,1,804,8,23,437
+vbehar,Vincent Behar,1763,967,0,1,99,566,5,151
+arron_green,Arron Green,2104,741,1,1,321,21,3,154
+ambuds,Ambud,1484,247,1,0,138,18,2,36
+nagix,草薙 昭彦,1243,1240,1,1,88,4,32,344
+stuhorsman,Stuart Horsman,1804,483,0,1,243,55,10,144
+trihug,Triangle HadoopUsers,1526,100,1,1,44,1,17,249
+iNilesh,Nilesh Ratnaparkhi,1865,459,1,1,205,4,16,155
+larsniel,Lars Nielsen,981,948,1,1,103,14,18,284
+vamview,id:vamview,1749,2959,0,1,1014,149,18,405
+HadoopAnalyst,HadoopAnalyst,34,0,0,0,17,0,0,1
+dbist,Artem Ervits,2331,1350,1,1,175,545,23,267
+yhemanth,Hemanth Yamijala,1866,481,1,1,62,11,5,158
+BizCloud,BizCloud ,1901,5537,1,1,12385,777,99,11944
+DataRoket,DataRoket,1414,1052,1,1,688,0,16,408
+tomlous,Tom Lous,1645,776,1,1,204,44,5,4860
+Qubole_Walt,Walter Paley,563,1008,1,1,363,639,9,1301
+earenas,Eric Arenas,1862,306,1,1,507,5,17,246
+S4RK,rajeshkumar,1935,893,0,1,147,38,10,224
+dipset25,hadoop awad,1853,0,0,0,0,0,2,21
+onnix,Onno on Linux,1897,1349,0,1,101,116,40,1029
+uweseiler,Uwe Seiler,2026,4272,1,1,1124,214,24,435
+sauravpoudel,Saurav Poudel,1890,6964,0,1,291,1259,16,534
+michaelisvy,michaelisvy,1997,424,0,1,121,0,28,266
+Urantian,Michael Reynolds,2224,310,1,1,909,0,14,784
+andrewallaway,Andrew Allaway,272,97,0,1,109,80,6,52
+iAHadoop,iA Hadoop,330,2,0,0,3,0,0,5
+whale_shark,じんべえざめ@東京,2209,34126,1,1,559,163,64,573
+Big_Analytics,Big Analytics,792,508,1,1,104,12,30,270
+hrsm1979,すみひろし,2057,4464,1,1,679,26,29,530
+cheolhee,cheolhee,1795,2713,1,1,459,426,12,353
+ABuckenhofer,Andreas Buckenhofer,772,665,1,1,813,134,7,198
+snorterboy,Pete Keeley,1919,5943,1,1,463,64,6,339
+randeepbhatia,Randeep S Bhatia,1751,206,1,1,698,4,3,167
+ravisRealm,Raviteja Chirala,1789,11596,1,1,427,274,13,491
+killerwhile,Killerwhile,2348,210,0,1,193,3,3,126
+RistoSaplamaev,Risto Saplamaev,1030,363,1,1,563,97,8,576
+yorozuyah,yorozuyah,1842,2952,1,1,1348,3,16,1015
+Ercan__Yilmaz,Ercan Yilmaz,791,1070,0,1,156,14,13,196
+jagane,Jagane Sundar,1723,61,0,1,79,0,9,131
+caroljmcdonald,caroljmcdonald,2444,482,1,1,184,6,19,223
+Dataguise,Dataguise ,1865,190,1,1,50,1,7,139
+yoshimov,NOMURA Yoshihide,2598,11518,0,1,488,234,9,272
+premal_mag,Premal Shah,1956,87,1,1,111,2,4,84
+quux00,Michael Peterson,1145,1166,1,1,123,78,12,93
+fintis,Osahon Jeff,1868,1386,1,1,310,43,13,2903
+lcappadev,Luis Cappa,1131,714,1,1,158,29,4,120
+dfannin,dfannin,2300,62,1,1,255,7,6,68
+BKersteter,Bart Kersteter,447,322,0,1,210,34,5,81
+vishigondi,Vishi Gondi,2617,674,1,1,393,0,17,199
+andrealeo83,andrea leo,1710,595,0,1,442,96,5,275
+pjam76,Peter J.,2564,3331,1,1,735,6,15,296
+mskerryschaffer,Kerry Schaffer,360,551,1,1,502,84,11,434
+searchzakir,Zakir Shaikh,1839,1300,1,1,1941,86,12,348
+pingKate,Kate Lawrence,1944,492,1,1,62,5,36,199
+HadoopArmenia,Hadoop-Armenia,939,0,0,0,6,0,0,31
+sudabon,Yukinori 'Bon' SUDA,1560,7443,1,1,421,196,21,449
+techvignesh,Vignesh Varadharajan,1571,1106,1,1,364,116,4,389
+ClouderaJP,Cloudera Japan,1029,469,1,1,10,2,41,476
+Ijokarumawak,Koji Kawamura,1504,1699,0,1,267,56,14,214
+tanjiaqi,Jiaqi Tan,1834,302,1,1,138,2,8,86
+pei1290,pei1290,1640,7658,1,1,333,11011,69,583
+V3Training,V3OnlineTraining,1581,492,1,1,1538,0,12,420
+tomonoria,TomonoriARAKAKI,1529,30990,0,1,322,630,40,306
+pradeep2002gs,Pradeep Kumar GS,1759,552,1,1,962,4,8,228
+HonorGod,Bob Gibson,1946,2169,1,1,166,27,10,108
+djared,David Jared,2478,268,1,1,53,0,1,52
+ksudhanshu,Kumar Sudhanshu,1836,463,1,1,138,20,6,135
+SlimTebourbi,Slim Tebourbi,1906,1210,1,1,214,373,17,219
+adamgray1234,Adam Gray,1379,35,0,1,104,0,11,92
+AhmedArboun,Ahmed Amine Arboun,856,103,0,1,1624,8,15,291
+galvarado89,Guillermo Alvarado,1528,2459,1,1,541,551,6,580
+masao_classcat,Masashi Okumura,894,198,1,1,358,16,15,262
+john_maverick,Dominik Benz,2051,1121,0,1,162,51,15,160
+_dbeech,Dave Beech,1272,485,1,1,291,60,8,132
+willpdp,WillPDP,470,1700,1,1,727,110,9,150
+appfluent,Appfluent Technology,1771,331,1,1,307,74,22,237
+strongnuclear,StrongNuclear,1664,401,1,1,1662,519,6,314
+malderhout,Maikel Alderhout,1866,4200,1,1,444,2,6,270
+innerzeal,Venkatesh Seetharam,1142,186,0,1,152,18,9,99
+lars_francke,Lars Francke,2401,207,0,1,86,2,10,113
+masazumi_koga,Masazumi Koga こがまさずみ,1219,10222,0,1,88,9,17,311
+toranosuke1977,ITを活用せよ！@中小企業診断士,288,373,0,1,2001,7,14,1036
+ScienceeSim,Simon Freedman,1834,99,0,1,160,1,2,83
+bala_mit,Bala,1212,103,0,1,33,0,5,57
+JimmyWongUSA,Jimmy Wong,1045,328,1,1,302,5,10,121
+proximallabs,Proximal Labs,1303,32,1,1,30,1,11,96
+mikky3,Kenji Mitsugi,2551,8648,1,1,489,56,9,269
+pappupass2004,HadoopExam.com,467,76,0,1,1991,64,26,659
+danielfree,Daniel,2203,1478,1,1,58,0,16,150
+revelytix,"Revelytix, Inc.",1203,56,0,1,20,0,22,180
+sshroff,Sanjay Shroff,1941,27,0,1,1561,0,28,242
+amolhkekre,amol kekre,1196,58,0,1,19,0,5,115
+dstuartnz,David Stuart,1686,301,1,1,23,0,13,132
+mimizone,mimizone,2228,672,1,1,221,16,3,76
+SQLGenie,Brenda Stokes,625,234,0,1,158,14,15,83
+jaimyoung,Jaimyoung Kwon,1870,312,0,1,1,0,3,31
+oursky,Oursky,1815,347,1,1,63,0,18,180
+sourigna,sourigna,2242,620,1,1,547,3,12,155
+sraymond38,Stéphane Raymond,1273,1323,0,1,396,2453,20,265
+HadoopRavi,ravi sankar,149,1,0,0,1,0,0,1
+HadoopThis,JMJ,370,12,1,0,2,0,0,3
+HadoopBrasil,Hadoop Brasil,1031,0,0,0,0,0,0,9
+Hadoop044,jehht,769,0,0,0,2,0,0,5
+AHadoop,Apache Hadoop,298,0,0,0,5,0,0,3
+hadoopFly,hadoopFly,302,39,0,0,3,1,0,3
+OpenHadoop,OpenHadoop,615,0,0,0,0,0,0,0
+HadoopTraining,Hadoop Training,601,89,1,0,1,0,0,18
+MHadoop,mahmoud Hadoop,453,2,0,0,17,2,0,6
+Podgeypoos79,Padraig O Brien,1327,1932,1,1,135,220,6,160
+n3104,Satoshi Noto,1769,3296,0,1,278,234,32,333
+furqon_ramdhani,furqon ramdhani,1981,1803,0,1,690,6,17,271
+compadrejaysee,Tariq Mahmood,1910,4926,1,1,231,56,15,245
+rodulforg,Rodulfo Rodriguez,1346,804,0,1,468,25,13,209
+TimHallHWX,Tim Hall,87,28,0,1,33,1,3,55
+ambientelivre,Ambiente Livre,1700,1766,1,1,187,4,14,332
+aricenote,ありすのーとだぴょん,497,44794,1,1,529,68869,26,530
+BigDataJ,Josh Garcia,1837,255,1,1,220,1,2,117
+NWABigData,NWA Big Data,87,277,1,1,1160,3,7,492
+kumadasu,くまだす,1644,13815,1,1,254,183,39,365
+mdamour1976,Michael D'Amour,993,149,0,1,51,0,5,155
+DataChemistry,Data Chemistry,1058,7,0,1,9,0,6,108
+Vaishn7,#NAMO #PM ,349,3538,0,1,610,229,8,353
+cogpie,Andi Rutherford,1193,471,1,1,117,3,4,115
+koichi_fujikawa,Koichi FUJIKAWA,1537,24,1,1,19,0,5,63
+perftune,perftune,1815,294,0,1,791,154,4,509
+P7h,Prashanth Babu,1948,3965,1,1,141,24,14,149
+dataPlumbers,Sanjeev Kumar,1487,1261,1,1,155,4,26,321
+kyoh3,Kyoh,1886,11913,1,1,545,92,25,453
+WeMakeHadoopFly,Big Data Perspective,23,0,0,1,12,0,0,4
+HadoopGal,Lara Rubbelke,883,0,0,0,0,0,1,9
+blrunner78,Jung Jae Hwa,1353,551,0,1,142,182,8,175
+satzsinterface,Satish Sathiya,1860,244,0,1,78,0,3,42
+matobat,的場辰徳,2591,9855,1,1,247,4,24,271
+roblan7,Rob Lancaster,2266,100,1,1,219,1,6,88
+PageSixGuy,Page Six Guy,554,68,0,1,57,3,2,51
+Vertascale,Vertascale,769,273,0,1,541,7,12,174
+rkalluri,Rajesh Kalluri,1529,367,0,1,820,1395,2,92
+_bruno_b_,Bruno B.,675,730,0,1,436,141,14,131
+arunksingla,Arun Singla,709,97,0,1,101,96,0,58
+m_mouri,M.Mouri,1757,4915,0,1,314,100,42,308
+raunakjhawar,Raunak Jhawar,1830,1879,1,1,450,16,13,181
+MetaScaleLLC,MetaScale ,503,559,1,1,674,2,7,196
+caylabenoit,CAYLA Benoît,951,814,1,1,127,1,15,164
+jppp,Jan Pieter Posthuma,2600,490,1,1,345,0,12,183
+jsxtech,Jaspal html5 php asp,2022,848,1,1,7760,65,50,7024
+DahlWinters,Dahl Winters,1081,596,1,1,221,8,19,245
+KumaChan88,KumaChan88,1559,407,1,1,727,1,7,606
+eidrian_hm,Adrian Herrera,1639,370,1,1,376,8,4,83
+coltfred,Colt Frederickson,2131,2836,1,1,139,159,8,117
+CaicedoC1741,Christian Caicedo ,451,178,1,1,758,2,3,70
+3uyun9,buyung bahari,1735,418,0,1,66,7,4,105
+Teubreu,Quentin Bes,1452,398,1,1,399,5,8,172
+uaximus,김기환(Kim Kiwhan),1513,797,1,1,415,175,6,185
+yishenggudou,timger,1826,165,1,1,1999,7,3,310
+odiszapc,Alexey Plotnik,1196,3175,0,1,130,345,5,96
+MaheshaRice,MaheshaッRice,1817,2277,1,1,316,10,8,303
+leo1109,Sho=Leo=Onuma,1630,3907,1,1,206,3,31,221
+erikyan,Erik-Jan,1915,1014,1,1,199,7,10,70
+lintool,Jimmy Lin,1550,1704,0,1,274,0,433,6734
+shimokky,下佐古慎司,1886,2008,1,1,1035,7,21,1077
+choenes,Corbin Hoenes,2225,825,0,1,119,103,10,110
+Hadoop_arch,Hadoop,44,1,0,0,23,0,0,1
+aditiHadoop,aditi Hadoop,556,1,0,0,14,1,0,5
+hadoopsizequeen,Hadoop Size Queen,1107,0,0,0,0,0,0,4
+HerdofHadoop,Herd of Hadoop,791,1,0,0,3,0,0,4
+HadoopBlog,HadoopBlog,384,0,0,0,5,0,0,4
+PhillyHadoop,PhillyHadoop,1758,0,0,0,0,0,0,5
+hadoop_jobs,Hadoop jobs,907,1,0,0,0,0,0,17
+dragonkassu,hadoop,456,0,0,0,9,0,0,1
+hadoop_pro,hadoop pro,414,120,0,0,0,1,0,6
+Deb_Hadoop,Debpratim,652,0,0,0,1,0,0,7
+AmanKau75986607,Hadoop Soup,98,0,0,1,0,0,0,0
+doctorHadoop,Dr. Hadoop,201,13,0,0,34,3,0,5
+hadoop_gildas,LOISEAU,1038,16,0,0,0,0,0,0
+sirius_hadoop,Vishal,30,0,0,0,0,0,0,0
+HadoopSFBay,Hadoop SF Bay,444,0,0,0,0,0,0,6
+SeattleHadoop,SeattleHadoop,1478,7,0,0,1,1,0,13
+Java_Hadoop_Lwq,LIUSANITY,434,1,0,0,16,0,0,5
+AndyHadoopGuru,anand,241,4,0,0,9,1,0,13
+hadooptraining9,hadoop training,90,5,0,0,12,0,0,0
+Hadoop_World,Hadoop World,1026,0,0,0,0,0,0,9
+Loom_for_Hadoop,"Revelytix, Inc.",526,0,0,0,8,0,0,6
+BHadoop,bigdata hadoop,65,0,0,0,1,0,0,1
+Hadoop7,Hadoop,265,0,0,0,0,0,0,1
+HadoopModow,mahmoud hamdan modow,716,0,0,0,0,0,0,4
+HadoopSF,Hadoop SF,444,0,0,0,0,0,0,5
+mulgray,Akifumi Yoshimoto,2270,1574,0,1,572,2475,15,287
+matsuou1,matsuou1,2415,1406,1,1,290,0,18,201
+hagun99,TaeKyung Kim,1897,1360,1,1,118,0,10,139
+john_meagher,john_meagher,2192,562,0,1,304,29,10,95
+bdmogal,Bhooshan Mogal,1830,111,1,1,155,8,8,149
+brfrn169,鈴木俊裕,2379,1267,0,1,221,5,18,251
+adamjshook,Adam Shook,1889,1934,1,1,134,8,11,160
+cesarr77,Cesar Rojas,1932,404,1,1,171,9,23,128
+2danmichael,Dan Michael,1355,142,1,1,194,1,7,110
+Bizosys,Bizosys,1544,1268,1,1,590,172,11,211
+uprush,YiFeng Jiang,2370,1022,0,1,152,44,15,173
+Hadoop_BigData,BigDataTraining.IN,295,29,0,0,5,0,1,4
+HannesHadoop,Hannes Hadoop,442,0,0,0,10,0,0,5
+hadoop431,سبحان,48,2,0,0,36,0,0,9
+HadoopThereItIs,Hadoop There It Is,1017,0,0,0,0,0,0,6
+hadoop_br,HadoopBR,91,0,0,0,8,0,0,0
+hadooptnakayama,hadoop-tnakayama,826,1,0,0,0,0,0,6
+SI_hadoop,GIISI_hadoop,45,1,0,0,4,0,0,0
+hadoop_ch,Swiss Hadoop UG,730,0,0,0,0,0,0,7
+huda112222,Hadoop,107,0,0,0,0,0,0,0
+HadoopMania,Hadoop World,176,20,0,0,32,0,0,5
+HadoopHacker,HadoopHacker,779,0,0,0,0,0,0,6
+HadoopGlobal,HadoopGlobal,259,0,0,0,0,0,0,1
+hadoop77,vick,285,0,0,0,0,0,0,1
+AsterHadoop,Kenta,546,0,0,0,12,0,0,7
+hadoop435,سبحان ,27,14,0,0,11,0,0,3
+HadoopCluster,Alex Ander,518,1,0,0,19,0,0,4
+hadooptoday,Hadoop-Today.com,557,0,0,0,1,0,0,10
+HadoopAustin,Hadoop Austin,402,0,0,0,0,0,0,2
+HadoopYARN,Apache Hadoop YARN,657,0,0,0,1,0,0,11
+Hadooped,Hadooped,890,5,0,0,2,0,0,5
+hadoopable,Hadoopable,1729,3,0,0,1,0,0,5
+hadoop29,Raj,370,4,0,0,2,0,0,5
+shafi_hadoop,Techdata Solution,17,0,0,0,0,0,0,0
+AboutHadoop,About Hadoop,424,1,0,0,0,0,0,8
+HadoopDev,Hadoop,154,2,0,0,1,0,0,0
+AustinHadoop,Austin Hadoop,402,0,0,0,0,0,0,2
+Bornibus_Hadoop,Bornibus,86,0,0,0,10,0,0,1
+whatishadoop,Hadoop Tutorial,166,1,0,0,3,0,0,0
+Infohub_hadoop,Hadoop,62,0,0,0,0,0,0,0
+hadoop93,mahmoud Hadoop,257,1,0,0,9,0,0,2
+_hadoop,Hadoop,354,0,0,0,5,0,0,3
+jqhadoop,jq.hadoop,856,0,0,0,0,0,0,5
+hadoop3,hadoop,276,0,0,0,0,0,0,1
+HadoopInABox,HadoopInABox,702,0,0,0,0,0,0,6
+hadoopprodigy,Hadoop Prodigy,255,0,0,0,8,1,0,1
+r_hadoop,Ali Benamara,408,0,0,0,0,0,0,2
+HadoopTrainingb,Hadoop Training ,385,0,0,0,5,0,0,5
+wst4hadoop,Hadoop,27,0,0,0,0,0,0,0
+sgHadoop,sean,385,1,0,0,0,0,0,2
+TusharHadoop,Tushar Sarde,174,0,0,0,11,0,0,2
+HadoopME,N.A.S,193,0,0,1,7,1,0,2
+sachinHadoop,sachin gola,1428,1,0,0,0,0,0,8
+HadoopPhilly,HadoopPhilly,1758,0,0,0,0,0,0,6
+PraveenHadoop,Praveen Hadoop,382,0,0,0,11,0,0,2
+hadoop777,imtiaz ahmad,482,0,0,0,0,0,0,4
+HadoopJeff,Jeff Atest,50,1,0,0,46,8,0,4
+Hdhd1986,Hadoop,167,1,0,0,9,0,0,0
+hadoop432,سبحان ,33,2,0,0,21,0,0,5
+HadoopBD,Hadoop BD,146,0,0,0,0,0,0,0
+harihadoop, hari hadoop,319,1,0,0,10,0,0,3
+Alseef66Hadoop,Hadoopê ♥♥♥',57,0,0,0,0,0,0,0
+hadoop_voyager,VOYAGER,169,0,0,0,9,0,0,0
+hadoop_rubydsl,hadoop rubydsl,1635,29,0,0,5,0,2,4
+hadooper1,hadooper,678,2,0,0,12,0,0,5
+Hadoopus,Hadoop,330,0,0,0,0,0,0,3
+HadoopaLoop,Hadoop-a-Loop,632,0,0,0,9,0,1,10
+CSHadoop,CS Hadoop,709,87,1,0,0,0,0,0
+hadooper2,hadooper,20,1,0,0,0,0,0,0
+hadoop43,سبحان,87,0,0,0,0,0,0,0
+HadoopJoe,Jose Chinchilla,274,0,0,0,0,0,0,1
+HadoopTutorial,Hadoop Tutorial,283,0,0,0,1,0,0,1
+nagenhadoop,nagendra hadoop,378,0,0,0,1,0,0,3
+HadoopAzure,Hadoop Azure,702,0,0,0,0,0,0,6
+hadoop439,hadoop43,21,11,0,0,0,0,0,2
+test_hadoop,Prakash,114,0,0,0,1,0,0,2
+pawan_hadoop,pawan,54,0,0,0,0,0,0,0
+hadoop_12,Anshul Verma,133,0,0,0,15,0,0,0
+HadoopDiscuss,hadoop,368,0,0,0,18,0,0,4
+HadoopCSAlerts,HadoopCSAlerts,734,0,0,0,0,0,0,0
+hadooptaskforce,Hadoop Task Force,219,0,0,1,18,0,1,2
+hadoop434,سبحان,29,9,0,0,141,0,0,29
+hadooppro,hadoop pro,1246,0,0,0,8,0,0,7
+Hadoop_hcs2013,チームElephant,258,0,0,0,5,0,0,1
+icehadoop,hadoop,472,0,0,0,0,0,0,6
+hadooppowered,Hadoop powered,1421,0,0,0,3,0,0,14
+TestHadoop,Test Hadoop,482,34,0,0,10,0,0,5
+EHadoop,Elefant Hadoop,548,16,0,0,17,0,0,10
+ShivaHadoop8,Venakata samba siva,149,1,0,0,1,0,0,1
+HadoopCat,hadoopCat,824,0,0,0,5,0,0,6
+DrHadoop,Doctor Hadoop,846,0,0,0,3,0,0,6
+Hadoops,Hadoops,635,0,0,0,0,0,0,4
+china_hadooper,hadooper,774,0,0,0,2,0,0,4
+sillytestaccoun,Hadoop,1153,0,0,0,2,0,0,4
+hadoopru,Hadoop.Ru,1248,0,0,0,0,0,0,7
+big_data_hadoop,(주)와이즈리서치,1381,1,0,0,1,0,0,1
+SaleemHadoop,Saleem,12,0,0,0,3,0,0,3
+HadoopSG,HadoopSG,217,0,0,0,0,0,0,0
+Hdpuser,Hadoop user,265,2,0,0,0,0,0,1
+BayAreaHadoop,Bay Area Hadoop,444,0,0,0,0,0,0,6
+hadoopken,Ken Hadoop,1368,0,0,0,0,0,0,7
+HadooperSri,srikanth pendiyala,330,0,0,0,12,0,0,2
+srr,sanjay Radia,2193,1,0,0,10,0,6,164
+HadoopNation,Hadoop Nation,45,0,0,0,10,0,0,2
+THadoop,Test Hadoop,129,0,0,0,10,0,0,0
+HadoopTestGF,HadoopTest,582,0,0,0,0,0,0,5
+hadoop768,KrishnaTulasi,9,0,0,0,2,0,0,0
+Flume_Hadoop,Flum Big,92,0,0,0,12,0,0,6
+edureka_hadoop,Edureka Hadoop,122,0,0,0,16,0,0,4
+tweetoop,horton hadoop,161,1,0,0,5,1,0,3
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
+hadoop_map,hadoop_map,556,4,0,0,1,0,0,7
+hadoop123,hadoop123,1519,0,0,0,0,0,0,5
+jdcryans,Jean-Daniel Cryans,1828,1055,0,1,291,36,96,1497
+hitesh1892,Hitesh,974,121,0,0,75,0,1,67
+apachedatafu,Apache DataFu,120,8,0,0,70,1,5,80
+5roumiles,5roumiles,1212,4283,0,0,1224,1372,16,364
+saintstack,Stack,1871,306,0,1,42,13,63,1130
+hmason,Hilary Mason,2650,12891,1,1,1158,2488,2842,42669
+alanfgates,Alan Gates,1625,905,0,1,149,3,113,3137
+rjurney,Russell Jurney,2102,27332,0,1,445,2051,252,3018
+heki1224,Shigeki Yamato(Mori),1741,16774,0,1,740,731,10,187
+demo_hadoop,shrida,120,1,0,0,0,0,0,1
+hadoopviki,hadoop-viki,699,16,0,0,1,0,0,0
+maslett,Matt Aslett,1920,7187,0,1,301,19,342,4617
+shiumachi,Sho Shimauchi,2338,29020,0,1,801,415,175,1786
+ted_dunning,ted_dunning,2396,1072,0,1,50,3,213,4515
+bigdata,Ben Lorica,1970,2782,1,1,99,15,1230,18062
+otisg,Otis Gospodnetić,2451,2086,0,1,127,2,196,2629
+kzk_mover,Kazuki Ohta,2590,21183,1,1,1053,877,385,4144
+shot6,Shinpei Ohtani,2592,37817,1,1,2252,1221,379,3591
