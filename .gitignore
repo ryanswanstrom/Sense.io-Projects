@@ -4,6 +4,11 @@
 # Forget zip files
 *.zip
 
+# Cleanup Sense.io files
+# Leave out the R folder
+\R\*
+.config\*
+
 # User-specific files
 *.suo
 *.user
