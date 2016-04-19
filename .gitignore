@@ -6,8 +6,9 @@
 
 # Cleanup Sense.io files
 # Leave out the R folder
-\R\*
+R/
 .config\*
+.gitconfig
 
 # User-specific files
 *.suo
