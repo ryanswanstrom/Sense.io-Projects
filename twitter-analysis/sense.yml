@@ -1,0 +1,7 @@
+jobs: 
+  - name: Split The Data Into Training/Test Sets
+    script: split_data.py
+  - name: Twitter Analysis in R
+    script: twitter_analysis.R
+  - name: Twitter Analysis in Python
+    script: twitter_analysis.py
