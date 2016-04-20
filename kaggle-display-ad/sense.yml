@@ -1,0 +1,5 @@
+jobs: 
+  - name: Example Analysis
+    script: analysis.R
+  - name: Further Analysis
+    script: further.R
