@@ -1,0 +1,3 @@
+jobs: 
+  - name: What Can the Sense Platform Do?
+    script: analysis.R
