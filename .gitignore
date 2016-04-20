@@ -9,6 +9,10 @@
 R/
 .config\*
 .gitconfig
+*.pyc
+pip.conf
+.local*
+.julia*
 
 # User-specific files
 *.suo
